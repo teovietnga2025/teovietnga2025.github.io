@@ -199,7 +199,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/index.m3u8?
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8?
-#EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/7ABZhfZ.png",SCTV20
+#EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" tvg-logo="http://i.imgur.com/YnunTc5.png",SCTV20 - iTV HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv20/index.m3u8?
