@@ -1,4 +1,4 @@
 # vietngatv.github.io
 
-vietngatv.short.gy/playlist
+https://vietngatv.short.gy/playlist
 
