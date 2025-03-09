@@ -163,7 +163,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/index.m3u8?
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/index.m3u8?
-#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv9hd.png",SCTV9
+#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/OJMbhow.png",SCTV9
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/index.m3u8?
@@ -418,11 +418,11 @@ https://cdn2.skygo.mn/live/disk1/BBC_earth/HLS-FTA/BBC_earth.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLS-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News Asia
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 tvg-id="bloomberg" group-title="📈| Kinh tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/Bloomberg.png",Bloomberg Asia
+#EXTINF:-1 tvg-id="bloomberg" group-title="📈| Kinh tế" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg Asia
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLS-FTA/Bloomberg.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOON.png",Cartoon Network Asia
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network Asia
 https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOONITO.png",Cartoonito Asia
+#EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/6vYWCD0.png",Cartoonito Asia
 https://cdn2.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CelestialMovies.hk" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/Mb5ssnu.png",Celestial Movies
 https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
@@ -524,7 +524,7 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/iIfZsD6.png",TDM Macau
 https://cdn2.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-#EXTINF:-1 tvg-id="TRTWorldHD" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/TRT.png",TRT World
+#EXTINF:-1 tvg-id="TRTWorldHD" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/1Xo5Tqs.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC Asia
 https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
@@ -594,7 +594,7 @@ http://31.148.48.15/2x2/tracks-v1a1/mono.m3u8
 http://31.148.48.15/Super/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts-love-pl4" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/YBVZoDd.png",СТС Love
 http://31.148.48.15/STS_Love/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="yu" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/YU.png",Телеканал Ю
+#EXTINF:-1 tvg-id="yu" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/KDZvt0Q.png",Телеканал Ю
 http://tv.streams.baikal-telecom.net:8080/U/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="che-pl4" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/ZOcDGpB.png",Че
 http://54.37.138.30/00067/tracks-v1a1/mono.m3u8?token=23BF9E58C622
@@ -614,7 +614,7 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playl
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="katun-24" tvg-logo="https://i.imgur.com/mr2Peqj.png" group-title="🇷🇺| Kênh khu vực",Катунь 24
 http://live.katun24.ru:8082/katun/katun/index.m3u8
-#EXTINF:-1 tvg-id="soyuz" group-title="🎭| Văn hóa" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SOUZ.png",Союз
+#EXTINF:-1 tvg-id="soyuz" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/w3OewHc.png",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="prodvizhenie" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.imgur.com/JrOuqJy.png",Продвижение
 http://83.166.243.97:8081/ltv1TNT/1/chunks.m3u8
@@ -708,7 +708,7 @@ http://31.184.197.124/KinopokazHD/mono.m3u8
 http://stream02.vnet.am/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="kinoxit" tvg-logo="https://i.imgur.com/Ge8vkQM.png",КиноХит
 http://95.142.88.250/kinohit_hd/index.m3u8
-#EXTINF:-1 tvg-id="nst" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NST.png",НСТ
+#EXTINF:-1 tvg-id="nst" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/uv2yxa5.png",НСТ
 http://stream01.vnet.am/Channel_125/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/8RN3tQC.png",Мужское кино
 http://stream01.vnet.am/MujskoeKino/tracks-v1a1/mono.m3u8
