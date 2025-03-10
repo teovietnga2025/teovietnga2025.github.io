@@ -806,10 +806,10 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EurosportAsia.fr" tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="⚽| Thể thao",Eurosport Asia
 http://stream01.vnet.am/Eurosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="fastfunbox-hd" tvg-logo="https://i.imgur.com/eba35RQ.png" group-title="⚽| Thể thao",Fast&Fun Box
+#EXTINF:-1 tvg-id="fastfunbox-hd" tvg-logo="https://i.imgur.com/uVjmsZK.png" group-title="⚽| Thể thao",Fast&Fun Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s79/04.m3u8
-#EXTINF:-1 tvg-id="fightbox-hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/KHSwLUD.png",FightBox
+#EXTINF:-1 tvg-id="fightbox-hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ozeezX8.png",FightBox
 http://stream01.vnet.am/Fightbox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kxl" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/RgdHdOV.png",KHL
 http://stream01.vnet.am/Channel_113/tracks-v1a1/mono.m3u8
