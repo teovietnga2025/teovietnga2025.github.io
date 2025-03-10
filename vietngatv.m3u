@@ -708,6 +708,8 @@ http://31.184.197.124/KinopokazHD/mono.m3u8
 http://stream02.vnet.am/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="kinoxit" tvg-logo="https://i.imgur.com/Ge8vkQM.png",КиноХит
 http://95.142.88.250/kinohit_hd/index.m3u8
+#EXTINF:-1 tvg-id="russkaya-komedia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/EpMOnm4.png",Комедия
+http://95.142.88.250/komediya/index.m3u8
 #EXTINF:-1 tvg-id="nst" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/uv2yxa5.png",НСТ
 http://stream01.vnet.am/Channel_125/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/8RN3tQC.png",Мужское кино
@@ -716,8 +718,6 @@ http://stream01.vnet.am/MujskoeKino/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/ZeeTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/w0ZE9QJ.png",Русский Бестселлер
 http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="russkaya-komedia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/VRC5juh.png",Русская Комедия
-http://95.142.88.250/komediya/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/cQN0P2B.png",Русский Роман
 http://stream01.vnet.am/RusskiyRoman/tracks-v1a1/mono.m3u8
 
