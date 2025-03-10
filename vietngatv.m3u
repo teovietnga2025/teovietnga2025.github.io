@@ -608,7 +608,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="360-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/YXDeX8q.png",360° Новости
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://i.imgur.com/GfDihxK.png" group-title="🇷🇺| Kênh khu vực",Енисей
+#EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://i.imgur.com/0Gc9v6O.png" group-title="🇷🇺| Kênh khu vực",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="katun-24" tvg-logo="https://i.imgur.com/mr2Peqj.png" group-title="🇷🇺| Kênh khu vực",Катунь 24
 http://live.katun24.ru:8082/katun/katun/index.m3u8
