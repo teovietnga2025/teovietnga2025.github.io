@@ -602,7 +602,7 @@ http://54.37.138.30/00067/tracks-v1a1/mono.m3u8?token=23BF9E58C622
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-id="rbk" group-title="📈| Kinh tế" tvg-logo="https://i.imgur.com/CwhmJby.png",РБК
 http://stream01.vnet.am/Shop24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="izvestia" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/r5HzA6J.png",Телеканал Известия
+#EXTINF:-1 tvg-id="izvestia" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/hZ3cn6f.png",Телеканал Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/dj9c8Yd.png",МИР 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
