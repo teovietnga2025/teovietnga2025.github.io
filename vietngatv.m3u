@@ -411,7 +411,7 @@ http://49.0.64.96:8007/ABC
 #EXTINF:-1 tvg-id="al-jazeera-int" group-title="📰| Tin tức" group-logo="https://i.imgur.com/lTODs0q.png" tvg-logo="https://i.imgur.com/BB93NQP.png",Aljazeera International
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet Asia
-https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+https://cdn4.skygo.mn/live/disk1/AnimalPlanet/HLSv3-FTA/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-id="AngelTVFarEast.in" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV Far East
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/pux6WN8.png",Asian Food Network
@@ -469,16 +469,8 @@ http://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://cdn2.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel Asia
-https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.in" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/0iNQvoL.png",Discovery Kids
-https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/xrDwo4x.png",Discovery Science Asia
-https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/WuOhLl4.png",Discovery Turbo Asia
-https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
-#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/CDsoyjN.png",DMAX Asia
-https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel Asia
+https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
 #EXTINF:-1 tvg-id="euronews-en" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews Asia
 http://stream01.vnet.am/Channel_119/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fashiontvhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/GFTAN5Q.png",Fashion TV Asia
@@ -487,16 +479,14 @@ https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLS-FTA/Fashion_TV.m3u8
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="france24-fr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/u8N6uoj.png",France 24 French
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="FoodNetworkAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/6l7us9Y.png",Food Network Asia
-https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.my" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/Kir4aaU.png",Golf Channel Asia
 http://49.0.64.96:8007/GOLF
+#EXTINF:-1 tvg-id="History.ph" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/VBinDiI.png",History Philippines
+http://stream01.vnet.am/Channel_123/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO Asia
 http://125hvt.ddns.net:21585/hbo/index.m3u8
-#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-logo="https://i.imgur.com/CUnvBAQ.png" group-title="🌿| Khám phá",HGTV Asia
-https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/l2lYskR.png",Investigation Discovery Asia
-https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
+http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KBSKorea.kr" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Dy1xwEd.png",KBS Korea
 https://cdn2.skygo.mn/live/disk1/KBS_World_24/HLS-FTA/KBS_World_24.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
@@ -527,12 +517,10 @@ http://hls.rt.com/hls/rtdru.m3u8
 https://cdn2.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="TRTWorldHD" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/XLaZUzJ.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="tlchd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC Asia
-https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
+#EXTINF:-1 tvg-id="tlchd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC Southeast Asia
+http://stream01.vnet.am/TLC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tvN" tvg-logo="https://i.imgur.com/8HFHJq5.png" group-title="🤣| Giải trí",tvN
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=SD&apikey=5MY50EII66
-#EXTINF:-1 tvg-id="TravelChannelSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/6RhQKyU.png",Travel Channel Asia
-https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="🌏| Đối ngoại",TVE Internacional Asia-Oceania
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5Monde ASIE
