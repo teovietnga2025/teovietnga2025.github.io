@@ -427,7 +427,7 @@ https://cdn2.skygo.mn/live/disk1/Cbeebies/HLS-FTA/Cbeebies.m3u8
 https://cdn2.skygo.mn/live/disk1/BBC_earth/HLS-FTA/BBC_earth.m3u8
 #EXTINF:-1 tvg-id="BBCLifestyleAsia.uk" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Livestyle Asia
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLS-FTA/BBC_lifestyle.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News Asia
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News Asia
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="📈| Kinh tế" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg Asia
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLS-FTA/Bloomberg.m3u8
@@ -545,9 +545,10 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZooMoo
 http://49.0.64.96:8007/Zoomoo
 
-#EXTINF:-1 tvg-id="pervy-pl4" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/tA84J3I.png",Первый канал
-http://stream02.vnet.am/PerviyKanal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/MfWQxD2.png",РТР Планета Азия
+#EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/tA84J3I.png",Первый канал. Всемирная сеть
+#EXTVLCOPT:http-referrer=https://1tv.live/
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.m3u8
+#EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/MfWQxD2.png",РТР-Планета Азия
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ МИР
 http://stream02.vnet.am/HTB/tracks-v1a1/mono.m3u8
@@ -577,8 +578,8 @@ https://cdn2.skygo.mn/live/disk1/TV3Russia/HLS-FTA/TV3Russia.m3u8
 http://stream01.vnet.am/Pyatnica/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl2" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/4PAcpfM.png",Телеканал Звезда
 http://stream01.vnet.am/Zvezda/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mir-kz" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР
-http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1 tvg-id="mir" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ International
 https://cdn2.skygo.mn/live/disk1/THT/HLS-FTA/THT.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ-ТВ
