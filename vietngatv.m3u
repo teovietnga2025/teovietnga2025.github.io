@@ -465,12 +465,12 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/V8AUJP6.png",Da Vinci Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel Southeast Asia
+https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/foLICwL.png",Discovery Asia
 https://cdn2.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel Southeast Asia
-https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
 #EXTINF:-1 tvg-id="euronews-en" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews Asia
 http://stream01.vnet.am/Channel_119/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fashiontvhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/GFTAN5Q.png",Fashion TV Asia
