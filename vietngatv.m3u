@@ -410,7 +410,7 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 http://49.0.64.96:8007/ABC
 #EXTINF:-1 tvg-id="al-jazeera-int" group-title="📰| Tin tức" group-logo="https://i.imgur.com/lTODs0q.png" tvg-logo="https://i.imgur.com/BB93NQP.png",Aljazeera International
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet Asia
+#EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet Southeast Asia
 https://cdn4.skygo.mn/live/disk1/AnimalPlanet/HLSv3-FTA/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-id="AngelTVFarEast.in" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV Far East
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
@@ -469,7 +469,7 @@ http://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://cdn2.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel Asia
+#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel Southeast Asia
 https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
 #EXTINF:-1 tvg-id="euronews-en" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews Asia
 http://stream01.vnet.am/Channel_119/tracks-v1a1/mono.m3u8
