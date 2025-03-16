@@ -143,7 +143,7 @@ http://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8?
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8?
-#EXTINF:-1 tvg-id="sctv3hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/tfk298I.png",SCTV3 - SEE TV
+#EXTINF:-1 tvg-id="sctv3hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/7LYilMt.png",SCTV3 - SEE TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv3/index.m3u8?
