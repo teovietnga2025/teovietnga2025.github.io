@@ -539,13 +539,11 @@ http://49.0.64.96:8007/Zoomoo
 https://cdn4.skygo.mn/live/disk1/ORt/HLS-FTA/ORt.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/MfWQxD2.png",РТР-Планета
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363/playlist.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://i.imgur.com/kFdooR4.png" group-title="⚽| Thể thao",Матч! HD
-http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ МИР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:-1 tvg-id="5kanal-ru" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/Q2Q7Mgr.png",Пятый канал
-http://57.128.183.163/00106/tracks-v1a1/mono.m3u8?token=E00A43CA1091
+#EXTINF:-1 tvg-id="piaty-int" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/Q2Q7Mgr.png",Пятый канал
+http://87.76.32.36:9104/udp/238.1.0.123:2000
 #EXTINF:-1 tvg-id="kultura" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/tpqsFzm.png",Россия 24
@@ -667,6 +665,10 @@ http://ott-cdn.ucom.am/s64/04.m3u8
 http://95.142.88.250/Bollywood/index.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/b5e9qUA.png",Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="start-air" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/4bACa7x.png",START Air
+http://87.76.32.36:9104/udp/238.1.0.240:2000
+#EXTINF:-1 tvg-id="start-world" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/TXtY5eM.png",START World
+http://87.76.32.36:9104/udp/238.1.0.241:2000
 #EXTINF:-1 tvg-id="tv1000" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/ZMsyjSr.png",viju TV1000
 http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="vip-comedy" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/YoNOFu7.png",viju+ Comedy
@@ -701,12 +703,6 @@ http://radio.tvs.by:8088/Kinopremiera/index.m3u8
 http://95.142.88.250/kinohit_hd/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/a7UGYYa.png",Комедия
 http://95.142.88.250/komediya/index.m3u8
-#EXTINF:-1 tvg-id="nst" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/uv2yxa5.png",НСТ
-http://130.193.73.10:8937/play/a03c
-#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/8RN3tQC.png",Мужское кино
-http://178.163.16.7:4022/udp/234.0.0.213:2000
-#EXTINF:-1 tvg-id="zee-tv" tvg-logo="https://i.imgur.com/xDVcDOc.png" group-title="🎬| Phim truyện",Индия
-http://77.106.252.178:4022/udp/233.33.220.6:5050
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/w0ZE9QJ.png",Русский Бестселлер
 http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/H3qhN8S.png",Русский детектив
