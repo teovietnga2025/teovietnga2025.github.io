@@ -588,7 +588,7 @@ http://31.148.48.15/STS_Love/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="yu" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/KDZvt0Q.png",Телеканал Ю
 http://tv.streams.baikal-telecom.net:8080/U/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="che" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/ZOcDGpB.png",Че
-http://54.37.138.30/00067/tracks-v1a1/mono.m3u8?token=23BF9E58C622
+http://45.11.139.43:8555/perez/index.m3u8
 #EXTINF:-1 tvg-id="ru-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/Z7HUU7V.png",RU.TV
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-id="rbk" group-title="📈| Kinh tế" tvg-logo="https://i.imgur.com/CwhmJby.png",РБК
@@ -654,11 +654,9 @@ http://ott-cdn.ucom.am/s58/index.m3u8
 http://tv.streams.baikal-telecom.net:8080/Disney/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="amedia1" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/2pAHdAi.png",AMEDIA 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s45/04.m3u8
+http://sc.id-tv.kz/A1.m3u8
 #EXTINF:-1 tvg-id="amedia2" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/NqHla2V.png",AMEDIA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s33/04.m3u8
+http://sc.id-tv.kz/A2_36_37.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/a8ZBGBw.png",Amedia Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s64/04.m3u8
@@ -686,6 +684,10 @@ https://cdn4.skygo.mn/live/disk1/DomPremium/HLS-FTA/DomPremium.m3u8
 http://31.148.48.15/Dom_Kino_Premium_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="🎬| Phim truyện",Дорама
 http://95.142.88.250/Dorama/index.m3u8
+#EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="nashe-novoe-kino" tvg-logo="https://i.imgur.com/iKPfM5K.png",Наше новое кино
+http://sc.id-tv.kz/Nnk_hd.m3u8
+#EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="nst" tvg-logo="https://i.imgur.com/uv2yxa5.png",НСТ
+http://sc.id-tv.kz/NSTV.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/Otfvlmf.png",КИНЕКО
 http://tv.streams.baikal-telecom.net:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kino-tv-pl4" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/sMpamNO.png",Кино ТВ
@@ -704,6 +706,8 @@ http://radio.tvs.by:8088/Kinopremiera/index.m3u8
 http://95.142.88.250/kinohit_hd/index.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/a7UGYYa.png",Комедия
 http://95.142.88.250/komediya/index.m3u8
+#EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="indiyskoe-kino" tvg-logo="https://i.imgur.com/LL8GyCh.png",Индийское кино
+http://sc.id-tv.kz/Indiiskoe_kino.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/w0ZE9QJ.png",Русский Бестселлер
 http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/H3qhN8S.png",Русский детектив
@@ -713,6 +717,8 @@ http://31.148.48.15/Russkiy_Roman/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="nano-hd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8xdU3Ry.png",NANO HD
 http://tv.streams.baikal-telecom.net:8080/NanoTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ocean-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/fPvfVIe.png",Ocean TV
+http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/jEkgahl.png",RTG HD
 http://tv.streams.baikal-telecom.net:8080/RTG_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://i.imgur.com/DBpVeb0.png" group-title="🌿| Khám phá",Арсенал
