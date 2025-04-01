@@ -620,6 +620,12 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/qYObfrG.png",Bridge
 http://31.148.48.15/Bridge_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/a9DXkMN.png",Bridge Шлягер
+http://213.91.178.133:8000/play/a07a
+#EXTINF:-1 tvg-id="bridge-tv-classic" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/JJTQq81.png",BRIDGE CLASSIC
+http://213.91.178.133:8000/play/a09c
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/f9xdIlN.png",BRIDGE Русский Хит
+http://213.91.178.133:8000/play/a0an
 #EXTINF:-1 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/auNdGeW.png",Mezzo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s35/04.m3u8
@@ -676,6 +682,8 @@ http://87.76.32.36:9104/udp/238.1.0.240:2000
 http://87.76.32.36:9104/udp/238.1.0.241:2000
 #EXTINF:-1 tvg-id="tv1000" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/ZMsyjSr.png",viju TV1000
 http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="tv1000-action" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/TMmyuzh.png",viju TV1000 Action
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="vip-comedy" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/YoNOFu7.png",viju+ Comedy
 http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="vip-premiere" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/klRvhR5.png",viju+ Premiere
