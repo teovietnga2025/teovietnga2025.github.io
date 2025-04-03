@@ -517,9 +517,9 @@ http://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 http://p1.cvtv.xyz:81/phx?token=live
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/1nN4rEP.png",Rai Italia Asia
 http://49.0.64.96:8007/RAI_Asia
-#EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
+#EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",RT News
 http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",Russia Today Documentary
+#EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Documentary
 http://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/iIfZsD6.png",TDM Macau
 https://cdn2.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
@@ -546,8 +546,8 @@ http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf
 http://162.19.205.146/00011/tracks-v1a1/mono.m3u8?token=23BF9E58C622
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/Q2Q7Mgr.png",Пятый канал
 http://57.128.183.163/00106/tracks-v1a1/mono.m3u8?token=E00A43CA1091
-#EXTINF:-1 tvg-id="kultura" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="kultura-pl4" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура
+http://31.148.48.15/TDK/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/tpqsFzm.png",Россия 24
 http://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04/playlist.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/6X3rvou.png",Карусель International
