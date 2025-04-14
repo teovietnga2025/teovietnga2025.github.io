@@ -457,7 +457,7 @@ http://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Asia Pacific
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="cgtn" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Q3gLfHw.png",CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="🌏| Đối ngoại",CGTN Español
