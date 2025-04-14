@@ -674,7 +674,7 @@ http://sc.id-tv.kz/A2_36_37.m3u8
 #EXTINF:-1 tvg-id="amedia-hit" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/a8ZBGBw.png",AMEDIA HIT
 http://130.193.73.10:8937/play/a02o
 #EXTINF:-1 tvg-id="amedia-premium" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/a8ZBGBw.png",Amedia Premium
-http://130.193.73.10:8937/play/a02p
+http://31.148.48.15/Amedia_Premium_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/YLQRnXt.png",BollywooD
 http://130.193.73.10:8937/play/a02l
 #EXTINF:-1 tvg-id="cinema-ru" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/b5e9qUA.png",Cinema
@@ -686,7 +686,7 @@ http://130.193.73.10:8937/play/a03t
 #EXTINF:-1 tvg-id="flixsnip" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/UVKX2rd.png",FLIXSNIP
 http://130.193.73.10:8937/play/a02r
 #EXTINF:-1 tvg-id="hollywood" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/1j7cT2I.png",HOLLYWOOD
-http://130.193.73.10:8937/play/a02k
+http://31.148.48.15/MGM_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/ZMsyjSr.png",viju TV1000
 http://130.193.73.10:8937/play/a02s
 #EXTINF:-1 tvg-id="tv1000-action" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/TMmyuzh.png",viju TV1000 Action
@@ -705,7 +705,7 @@ http://31.148.48.15/Dom_Kino_Premium_HD/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s95/index.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://i.imgur.com/8LPtPf6.png" group-title="🎬| Phim truyện",ЕВРОКИНО
-http://130.193.73.10:8937/play/a02w
+http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="nashe-novoe-kino" tvg-logo="https://i.imgur.com/iKPfM5K.png",Наше новое кино
 http://sc.id-tv.kz/Nnk_hd.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="nashe-muzhskoe" tvg-logo="https://i.imgur.com/QRWKpmb.png",НАШЕ МУЖСКОЕ
