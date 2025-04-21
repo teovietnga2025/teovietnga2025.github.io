@@ -616,7 +616,7 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playl
 http://178.212.71.253:8000/play/120/index.m3u8
 #EXTINF:-1 tvg-id="8kanal-ru" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/q3JCAC3.png",8 канал
 http://178.212.71.253:8000/play/121/index.m3u8
-#EXTINF:-1 tvg-id="astana" tvg-logo="https://i.imgur.com/dwJKaUL.png" group-title="🇷🇺| Kênh khu vực",Astana
+#EXTINF:-1 tvg-id="astana" tvg-logo="https://i.imgur.com/dP6INM3.jpeg" group-title="🇷🇺| Kênh khu vực",Astana
 http://sc.id-tv.kz/Astana.m3u8
 #EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://i.imgur.com/GTXkAUu.png" group-title="🇷🇺| Kênh khu vực",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
