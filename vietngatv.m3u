@@ -616,6 +616,8 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playl
 http://178.212.71.253:8000/play/120/index.m3u8
 #EXTINF:-1 tvg-id="8kanal-ru" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/q3JCAC3.png",8 канал
 http://178.212.71.253:8000/play/121/index.m3u8
+#EXTINF:-1 tvg-id="astana" tvg-logo="https://i.imgur.com/dwJKaUL.png" group-title="🇷🇺| Kênh khu vực",Astana
+http://sc.id-tv.kz/Astana.m3u8
 #EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://i.imgur.com/GTXkAUu.png" group-title="🇷🇺| Kênh khu vực",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="katun-24" tvg-logo="https://i.imgur.com/mr2Peqj.png" group-title="🇷🇺| Kênh khu vực",Катунь 24
@@ -702,6 +704,8 @@ http://95.142.88.250/Amedia_Hit_HD/tracks-v1a1/mono.m3u8
 http://31.148.48.15/Amedia_Premium_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/b5e9qUA.png",Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="el-arna" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/XYsLe2Q.png",El Arna
+http://sc.id-tv.kz/ElArna_34_35.m3u8
 #EXTINF:-1 tvg-id="hollywood" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/1j7cT2I.png",HOLLYWOOD
 http://31.148.48.15/MGM_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vremia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/jZlj3ga.png",Время
@@ -845,7 +849,7 @@ http://31.148.48.15/Zhivaya_Planeta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/9lHQPdN.png",Живая природа
 http://178.212.71.253:8000/play/79/index.m3u8
 
-#EXTINF:-1 tvg-id="31-kanal-kz" tvg-logo="https://i.imgur.com/xNiC5BY.png" group-title="🤣| Giải trí",31 канал KZ
+#EXTINF:-1 tvg-id="31-kanal-kz" tvg-logo="https://i.imgur.com/xNiC5BY.png" group-title="🤣| Giải trí",31 канал
 http://sc.id-tv.kz/31Kanal_34_35.m3u8
 #EXTINF:-1 tvg-id="luxury-hd" tvg-logo="https://i.imgur.com/nobZa5l.png" group-title="🤣| Giải trí",Luxury HD
 http://s1.tv-nano.com/Luxury_rec/tracks-v1a1/index.m3u8
@@ -880,8 +884,6 @@ http://31.148.48.15/Zhivi/tracks-v1a1/mono.m3u8
 http://sc.id-tv.kz/Khabar_24.m3u8
 #EXTINF:-1 tvg-id="xabar24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/i3Q4XES.png",24KZ HD
 https://tvcdn01.esilnet.kz/tv/24kz/index.m3u8
-#EXTINF:-1 tvg-id="astana" tvg-logo="https://i.imgur.com/dwJKaUL.png" group-title="🇷🇺| Kênh khu vực",Astana
-http://sc.id-tv.kz/Astana.m3u8
 #EXTINF:-1 tvg-id="atameken-business" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/CfRvm8i.png",Atameken Business
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="caspian-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/QUu4Gv0.png",Caspian News
