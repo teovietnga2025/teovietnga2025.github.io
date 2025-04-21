@@ -641,6 +641,8 @@ http://178.212.71.253:8000/play/134/index.m3u8
 http://178.212.71.253:8000/play/135/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/a9DXkMN.png",Bridge Шлягер
 http://178.212.71.253:8000/play/142/index.m3u8
+#EXTINF:-1 tvg-id="hit-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/00agTJO.png",HIT TV
+http://sc.id-tv.kz/HitTV.m3u8
 #EXTINF:-1 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/auNdGeW.png",Mezzo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s35/04.m3u8
@@ -843,6 +845,8 @@ http://31.148.48.15/Zhivaya_Planeta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/9lHQPdN.png",Живая природа
 http://178.212.71.253:8000/play/79/index.m3u8
 
+#EXTINF:-1 tvg-id="31-kanal-kz" tvg-logo="https://i.imgur.com/xNiC5BY.png" group-title="🤣| Giải trí",31 канал KZ
+http://sc.id-tv.kz/31Kanal_34_35.m3u8
 #EXTINF:-1 tvg-id="luxury-hd" tvg-logo="https://i.imgur.com/nobZa5l.png" group-title="🤣| Giải trí",Luxury HD
 http://s1.tv-nano.com/Luxury_rec/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="anekdottv" tvg-logo="https://i.imgur.com/wKfB79s.png" group-title="🤣| Giải trí",Анекдот ТВ
@@ -864,6 +868,8 @@ http://91.247.68.229:8000/play/Lapki/index.m3u8
 https://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="🤣| Giải trí",Сарафан
 http://95.142.88.250/sarafan/index.m3u8
+#EXTINF:-1 tvg-id="7kanal-kz" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/BXHtWNs.png",Седьмой канал
+http://sc.id-tv.kz/7_kanal_34_35.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/thIBQIy.png",Центральное телевидение
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s20/03.m3u8
@@ -871,9 +877,15 @@ http://ott-cdn.ucom.am/s20/03.m3u8
 http://31.148.48.15/Zhivi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="xabar24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/i3Q4XES.png",24KZ
+http://sc.id-tv.kz/Khabar_24.m3u8
+#EXTINF:-1 tvg-id="xabar24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/i3Q4XES.png",24KZ HD
 https://tvcdn01.esilnet.kz/tv/24kz/index.m3u8
+#EXTINF:-1 tvg-id="astana" tvg-logo="https://i.imgur.com/dwJKaUL.png" group-title="🇷🇺| Kênh khu vực",Astana
+http://sc.id-tv.kz/Astana.m3u8
 #EXTINF:-1 tvg-id="atameken-business" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/CfRvm8i.png",Atameken Business
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="caspian-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/QUu4Gv0.png",Caspian News
+http://sc.id-tv.kz/CaspianNews.m3u8
 #EXTINF:-1 tvg-id="kazakh-tv" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/MY9CjUH.png",Silk Way TV
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/KI1qZNc.png",Вместе-РФ
@@ -888,8 +900,12 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://178.212.71.253:8000/play/111/index.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/v0OYe1d.png",Соловьёв.Live HD
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1/playlist.m3u8
+#EXTINF:-1 tvg-id="ktk-kz" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/BurrNTo.png",КТК
+http://sc.id-tv.kz/KTK_34_35.m3u8
 #EXTINF:-1 tvg-id="tolk" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/nk0iycg.png",Толк
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="xabar" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/xG3HxId.png",Хабар
+http://sc.id-tv.kz/Khabar.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/gCmCRfe.png",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 
