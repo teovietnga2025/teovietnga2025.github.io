@@ -851,13 +851,13 @@ http://31.148.48.15/Boks_TV/tracks-v1a1/mono.m3u8
 http://178.212.71.253:8000/play/92/index.m3u8
 #EXTINF:-1 tvg-id="konny-mir" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/X6otbK0.png",Конный Мир
 http://178.212.71.253:8000/play/108/index.m3u8
-#EXTINF:-1 tvg-id="match-arena" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/udTzwzu.png",Матч! Арена
-http://tv.streams.baikal-telecom.net:8080/MatchArena/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-boets" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/DogOkA4.png",Матч! Боец
 http://31.148.48.15/Match_Boec/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-igra" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/5XWpF19.png",Матч! Игра
 http://31.148.48.15/Match_Igra/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="match-premier" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/GQPyHYK.png",МАТЧ! Премьер
+#EXTINF:-1 tvg-id="match-planeta" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/vhyMb9D.png",Матч! Планета
+https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLS-FTA/Match_Planeta.m3u8
+#EXTINF:-1 tvg-id="match-premier" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/GQPyHYK.png",Матч! Премьер
 http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/X02s2UE.png",Матч! Страна
 http://178.212.71.253:8000/play/51/index.m3u8
