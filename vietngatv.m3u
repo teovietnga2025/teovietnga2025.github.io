@@ -452,14 +452,8 @@ http://123.24.87.212:8889/ace/tv360mpd.php?id=135
 http://49.0.64.96:8007/RAI_Asia
 #EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
 http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RTArabic.ru" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/G8vGrn1.png",Russia Today Arabic
-http://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RTDE.de" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/v1PIbB2.png",Russia Today Deutsch
 http://rt-ger.rttv.com/live/rtdeutsch/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RTFrance.fr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today Français
-http://rt-fra.rttv.com/live/rtfrance/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RTenEspanol.ru" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today Español
-http://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Documentary
 http://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-id="TDMMacauSatellite.mo" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/iIfZsD6.png",TDM Macau
@@ -527,7 +521,7 @@ https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/RenuH4S.png",ТНТ Music
 http://31.148.48.15/TNT_Music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/RenuH4S.png",ТНТ Music HD
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+http:/tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="2na2-pl4" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/fhQFLEl.png",2x2
 http://31.148.48.15/2x2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="super-pl4" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/nsk8PpB.png",Суббота
@@ -566,8 +560,12 @@ http://sc.id-tv.kz/Astana.m3u8
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="katun-24" tvg-logo="https://i.imgur.com/mr2Peqj.png" group-title="🇷🇺| Kênh khu vực",Катунь 24
 http://live.katun24.ru:8082/katun/katun/index.m3u8
+#EXTINF:-1 tvg-id="sibir24" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.imgur.com/2QUxfhi.png",Сибирь 24
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="soyuz" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/w3OewHc.png",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-id="moskva-24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/gXbUMVy.png",Москва 24
+http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe/playlist.m3u8
 #EXTINF:-1 tvg-id="prodvizhenie" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.imgur.com/JrOuqJy.png",Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 tvg-id="tnv-planeta" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/ijA1zDw.png",ТНВ-Планета
