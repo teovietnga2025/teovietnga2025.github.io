@@ -36,40 +36,48 @@ http://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 http://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="🧡| VTVcab" group-logo="https://i.imgur.com/nEk7WFx.png" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
-http://123.24.87.212:8889/ace/tv360mpd.php?id=180
+http://duthao2008.fastddns.org:9981/stream/channelid/788468494?profile=pass
 #EXTINF:-1 tvg-id="onphimviet" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
-http://123.24.87.212:8889/ace/tv360mpd.php?id=175
+http://duthao2008.fastddns.org:9981/stream/channelid/1388623464?profile=pass
+#EXTINF:-1 tvg-id="onsports" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports
+http://duthao2008.fastddns.org:9981/stream/channelid/277208807?profile=pass
 #EXTINF:-1 tvg-id="onmovies" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
-http://123.24.87.212:8889/ace/tv360mpd.php?id=181
+http://duthao2008.fastddns.org:9981/stream/channelid/244154232?profile=pass
 #EXTINF:-1 tvg-id="onechannel" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel
-http://123.24.87.212:8889/ace/tv360mpd.php?id=182
+http://duthao2008.fastddns.org:9981/stream/channelid/1006974326?profile=pass
+#EXTINF:-1 tvg-id="onsportsplus" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+
+http://duthao2008.fastddns.org:9981/stream/channelid/1328332031?profile=pass
 #EXTINF:-1 tvg-id="ono2tv" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
-http://123.24.87.212:8889/ace/tv360mpd.php?id=136
+http://duthao2008.fastddns.org:9981/stream/channelid/14274184?profile=pass
 #EXTINF:-1 tvg-id="onbibi" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
-http://123.24.87.212:8889/ace/tv360mpd.php?id=178
+http://duthao2008.fastddns.org:9981/stream/channelid/808004553?profile=pass
 #EXTINF:-1 tvg-id="oninfotv" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
-http://123.24.87.212:8889/ace/tv360mpd.php?id=189
+http://duthao2008.fastddns.org:9981/stream/channelid/1889493598?profile=pass
 #EXTINF:-1 tvg-id="oncine" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
-http://123.24.87.212:8889/ace/tv360mpd.php?id=176
+http://duthao2008.fastddns.org:9981/stream/channelid/1004894429?profile=pass
 #EXTINF:-1 tvg-id="onstyle" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
-http://123.24.87.212:8889/ace/tv360mpd.php?id=184
-#EXTINF:0 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping
+http://duthao2008.fastddns.org:9981/stream/channelid/488276141?profile=pass
+#EXTINF:-1 group-title="🛒| Mua sắm" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/fnxsd1/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="onmusic" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
-http://123.24.87.212:8889/ace/tv360mpd.php?id=185
+http://duthao2008.fastddns.org:9981/stream/channelid/599979576?profile=pass
+#EXTINF:-1 tvg-id="onfootball" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football
+http://duthao2008.fastddns.org:9981/stream/channelid/2049737237?profile=pass
 #EXTINF:-1 tvg-id="ontrending" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
-http://123.24.87.212:8889/ace/tv360mpd.php?id=186
+http://duthao2008.fastddns.org:9981/stream/channelid/1955383404?profile=pass
+#EXTINF:-1 tvg-id="onsportsnews" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News
+http://duthao2008.fastddns.org:9981/stream/channelid/256179753?profile=pass
 #EXTINF:-1 tvg-id="onviedramas" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
-http://123.24.87.212:8889/ace/tv360mpd.php?id=177
+http://duthao2008.fastddns.org:9981/stream/channelid/930129954?profile=pass
 #EXTINF:-1 tvg-id="onvfamily" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
-http://123.24.87.212:8889/ace/tv360mpd.php?id=187
+http://duthao2008.fastddns.org:9981/stream/channelid/333973247?profile=pass
 #EXTINF:-1 tvg-id="onkids" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON Kids
-http://123.24.87.212:8889/ace/tv360mpd.php?id=179
+http://duthao2008.fastddns.org:9981/stream/channelid/111003965?profile=pass
 #EXTINF:-1 tvg-id="onlife" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
-http://123.24.87.212:8889/ace/tv360mpd.php?id=188
-#EXTINF:-1 tvg-id="ongolf" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf
-http://123.24.87.212:8889/ace/tv360mpd.php?id=169
+http://duthao2008.fastddns.org:9981/stream/channelid/1100130012?profile=pass
+#EXTINF:-1 tvg-id="ongolf" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf
+http://duthao2008.fastddns.org:9981/stream/channelid/2098369715?profile=pass
 
 #EXTINF:-1 tvg-id="htv1" group-title="💛| HTV" group-logo="https://i.imgur.com/vevFQnR.png" tvg-logo="https://i.imgur.com/4xkotkw.png",HTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -255,6 +263,10 @@ http://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",HanoiTV2 | Đài Hà Nội
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/DlZYnPf.png",YouTV
+https://sgchill.io.vn/tv/tv360.php?id=31
+#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/78fQx65.png",HiTV
+https://sgchill.io.vn/tv/tv360.php?id=32
 #EXTINF:-1 tvg-id="bacgiang" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/j9lbGel.png",BGTV HD | TH Bắc Giang
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8
 #EXTINF:-1 tvg-id="backan" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/6HQeLRw.png",TBK HD | TH Bắc Kạn
@@ -601,7 +613,7 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="zhara" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/41K9Y2s.png",ЖАРА
 http://178.212.71.253:8000/play/141/index.m3u8
 
-#EXTINF:-1 tvg-id="shop24" group-title="🛒| Mua sắm" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24
+#EXTINF:-1 tvg-id="shop24" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24
 http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="shopping-live" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/EMmGnjV.png",Shopping Live
 http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
@@ -777,7 +789,7 @@ http://178.212.71.253:8000/play/79/index.m3u8
 
 #EXTINF:-1 tvg-id="31-kanal-kz" tvg-logo="https://i.imgur.com/xNiC5BY.png" group-title="🤣| Giải trí",31 канал
 http://sc.id-tv.kz/31Kanal_34_35.m3u8
-#EXTINF:-1 tvg-id="luxury-hd" tvg-logo="https://i.imgur.com/nobZa5l.png" group-title="🤣| Giải trí",Luxury HD
+#EXTINF:-1 tvg-id="luxury-hd" tvg-logo="https://i.imgur.com/nobZa5l.png" group-title="🤣| Giải trí",Luxury
 http://s1.tv-nano.com/Luxury_rec/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="voprosy-i-otvety" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/yjETxk1.png",Вопросы и ответы
 http://178.212.71.253:8000/play/97/index.m3u8
