@@ -515,7 +515,7 @@ http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ International
 https://cdn2.skygo.mn/live/disk1/THT/HLS-FTA/THT.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ-ТВ
-http://radio.tvs.by:8088/MuzTV/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8000/play/20/index.m3u8
 #EXTINF:-1 tvg-id="tnt4-international" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/gBokU5i.png",ТНТ4 International
 https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/RenuH4S.png",ТНТ Music
