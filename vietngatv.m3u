@@ -255,10 +255,10 @@ http://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",HanoiTV2 | Đài Hà Nội
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/DlZYnPf.png",YouTV
-https://sgchill.io.vn/tv/tv360.php?id=31
-#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/78fQx65.png",HiTV
-https://sgchill.io.vn/tv/tv360.php?id=32
+#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/78fQx65.png",HanoiTV3 | HiTV
+https://xem.TruyenHinh.Click/CoBan/185.HiTV/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/DlZYnPf.png",HanoiTV4 | YouTV
+https://xem.TruyenHinh.Click/CoBan/31.YouTV/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="bacgiang" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/j9lbGel.png",BGTV HD | TH Bắc Giang
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8
 #EXTINF:-1 tvg-id="backan" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/6HQeLRw.png",TBK HD | TH Bắc Kạn
