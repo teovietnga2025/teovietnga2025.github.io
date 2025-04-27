@@ -461,7 +461,7 @@ https://cdn2.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="TRTWorldHD" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/XLaZUzJ.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="🌏| Đối ngoại",TVE Internacional Asia-Oceania
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
+http://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5Monde ASIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
