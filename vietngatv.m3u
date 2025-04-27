@@ -453,8 +453,12 @@ https://xem.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/1nN4rEP.png",Rai Italia Asia
 http://49.0.64.96:8007/RAI_Asia
 #EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
+http://178.212.71.253:8000/play/102/index.m3u8
+#EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today HD
 http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Documentary
+http://178.212.71.253:8000/play/109/index.m3u8
+#EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Documentary HD
 http://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-id="TDMMacauSatellite.mo" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/iIfZsD6.png",TDM Macau
 https://cdn2.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
@@ -534,8 +538,6 @@ http://178.212.71.253:8000/play/105/index.m3u8
 http://178.212.71.253:8000/play/139/index.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="🤣| Giải trí",Peretz International
 https://cdn2.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
-#EXTINF:-1 tvg-id="ru-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/Z7HUU7V.png",RU.TV
-http://178.212.71.253:8000/play/38/index.m3u8
 #EXTINF:-1 tvg-id="ru-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/Z7HUU7V.png",RU.TV HD
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-id="rbk" group-title="📈| Kinh tế" tvg-logo="https://i.imgur.com/CwhmJby.png",РБК
@@ -590,7 +592,7 @@ http://sc.id-tv.kz/HitTV.m3u8
 #EXTINF:-1 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/auNdGeW.png",Mezzo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s35/04.m3u8
-#EXTINF:-1 tvg-id="mezzo-live-hd" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/H9ytKPN.png",Mezzo Live HD
+#EXTINF:-1 tvg-id="mezzo-live-hd" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/H9ytKPN.png",Mezzo Live
 http://178.212.71.253:8000/play/60/index.m3u8
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png",Music Box Russia
 http://178.212.71.253:8000/play/65/index.m3u8
@@ -611,7 +613,9 @@ http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
 http://178.212.71.253:8000/play/32/index.m3u8
 #EXTINF:-1 tvg-name="Мой Мир" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/SLTHEVi.png",Мой Мир
 http://moymir.ru/hls/onair.m3u8
-#EXTINF:-1 tvg-id="yuvelirochka" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/IcWtXCZ.png",Ювелирочка ТВ
+#EXTINF:-1 tvg-id="yuvelirochka" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/IcWtXCZ.png",Ювелирочка
+http://178.212.71.253:8000/play/35/index.m3u8
+#EXTINF:-1 tvg-id="yuvelirochka" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/IcWtXCZ.png",Ювелирочка HD
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ani" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/i2AP0hp.png",Ani
@@ -720,6 +724,8 @@ http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1 tvg-id="bobior" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/clWWhB8.png",Бобер
 https://cdn2.skygo.mn/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="🌿| Khám phá",Большая Азия
+http://178.212.71.253:8000/play/83/index.m3u8
+#EXTINF:-1 tvg-id="bolshaya-azia" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="🌿| Khám phá",Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="doktor" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/VNirxxn.png",Доктор
 http://178.212.71.253:8000/play/68/index.m3u8
@@ -795,7 +801,7 @@ http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/4KiYSln.png",Победа
 https://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="🤣| Giải trí",Сарафан
-http://95.142.88.250/sarafan/index.m3u8
+http://178.212.71.253:8000/play/44/index.m3u8
 #EXTINF:-1 tvg-id="7kanal-kz" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/BXHtWNs.png",Седьмой канал
 http://sc.id-tv.kz/7_kanal_34_35.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/thIBQIy.png",Центральное телевидение
