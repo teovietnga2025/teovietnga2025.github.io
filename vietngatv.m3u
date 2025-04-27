@@ -130,6 +130,17 @@ https://sctv.locket.website/kplus.m3u8?channel=cartoon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" group-logo="https://i.imgur.com/lCUx308.png" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sports 1
+http://duthao2008.fastddns.org:9981/stream/channelid/1013494608?profile=pass
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sports 2
+http://duthao2008.fastddns.org:9981/stream/channelid/1077102621?profile=pass
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE
+http://duthao2008.fastddns.org:9981/stream/channelid/41824813?profile=pass
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://i.imgur.com/QPkuBRi.png" group-title="K+",K+ ACTION
+http://duthao2008.fastddns.org:9981/stream/channelid/1690978840?profile=pass
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids
+http://duthao2008.fastddns.org:9981/stream/channelid/471475672?profile=pass
+
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/hGKz43E.png" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV — Truyền Hình Công An Nhân Dân
 http://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN — Truyền Hình Quốc Phòng Việt Nam
