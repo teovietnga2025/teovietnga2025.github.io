@@ -562,10 +562,6 @@ http://sc.id-tv.kz/Astana.m3u8
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="katun-24" tvg-logo="https://i.imgur.com/mr2Peqj.png" group-title="🇷🇺| Kênh khu vực",Катунь 24
 http://live.katun24.ru:8082/katun/katun/index.m3u8
-#EXTINF:-1 tvg-id="lot-47" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.imgur.com/d02uxkB.png",Лен ТВ 24
-http://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657/playlist.m3u8
-#EXTINF:-1 tvg-id="sankt-peterburg" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.imgur.com/9At4oG7.png",Санкт-Петербург
-http://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8.m3u8
 #EXTINF:-1 tvg-id="sibir24" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.imgur.com/2QUxfhi.png",Сибирь 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="soyuz" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/w3OewHc.png",Союз
