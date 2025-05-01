@@ -750,7 +750,7 @@ http://178.212.71.253:8000/play/73/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZZxzueO.png",Наука
 http://178.212.71.253:8000/play/88/index.m3u8
 #EXTINF:-1 tvg-id="kaleydoskop-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Ub3gojM.png",Калейдоскоп ТВ
-http://213.91.178.133:8000/play/a0aw
+http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня ТВ
 http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd
 #EXTINF:-1 tvg-id="moya-planeta" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/uIiAdBv.png",Моя Планета
