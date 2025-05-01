@@ -244,7 +244,7 @@ http://live.fptplay53.net/epzsd1/quangbinh_hls.smil/chunklist_b2500000.m3u8
 https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="quangngai" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/FTyvVYO.png",PTQ | TH Quảng Ngãi
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
-#EXTINF:-1 tvg-id="quangtri" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/m2Iq6ya.png",QRTV HD | TH Quảng Trị
+#EXTINF:-1 tvg-id="quangtri" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/USjZMMk.png",QRTV HD | TH Quảng Trị
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/UwTCbZ5.png",TTV HD | TH Thanh Hóa
@@ -913,6 +913,12 @@ http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
 #EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/MqN1yfa.png" radio="true",Радио Вера
 http://radiovera.hostingradio.ru:8007/radiovera_128
+#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/aeGx1Rd.png" radio="true",Радио DFM
+http://dfm.hostingradio.ru/dfm128.mp3
+#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/vYXzNdU.png" radio="true",Радио Хит FM
+http://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/bgBOgNX.png" radio="true",Радио Maximum
+http://maximum.hostingradio.ru/maximum128.mp3
 #EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/NCDtVhn.png" radio="true",Радио Sputnik International
 http://icecast-rian.cdnvideo.ru/voiceenghi
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/9Sg7YQY.png" radio="true",Авторадио
