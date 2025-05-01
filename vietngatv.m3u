@@ -460,6 +460,8 @@ http://178.212.71.253:8000/play/102/index.m3u8
 http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RTArabic.ru" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/G8vGrn1.png",Russia Today Arabic
 http://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RTArabic.ru" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today Balkan
+http://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDE.de" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/v1PIbB2.png",Russia Today Deutsch
 http://rt-ger.rttv.com/live/rtdeutsch/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today Español
@@ -838,6 +840,8 @@ https://tvcdn01.esilnet.kz/tv/24kz/index.m3u8
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="caspian-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/QUu4Gv0.png",Caspian News
 http://sc.id-tv.kz/CaspianNews.m3u8
+#EXTINF:-1 group-title="📰| Tin tức" tvg-id="cbc-az" tvg-logo="https://i.imgur.com/wVT0dwO.png",CBC
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 #EXTINF:-1 tvg-id="kazakh-tv" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/MY9CjUH.png",Silk Way TV
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/KI1qZNc.png",Вместе-РФ
