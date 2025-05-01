@@ -488,7 +488,7 @@ http://178.212.71.253:8000/play/3/index.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/VJuvM2K.png",НТВ МИР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:-1 tvg-id="piaty-int" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/Q2Q7Mgr.png",Пятый канал
+#EXTINF:-1 tvg-id="piaty-int" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/Q2Q7Mgr.png",Пятый канал International
 http://213.91.178.133:8000/play/a0b4
 #EXTINF:-1 tvg-id="kultura-pl4" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
