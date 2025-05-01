@@ -403,8 +403,12 @@ https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist_b2500000.m3u8
 https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="fashiontvhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/GFTAN5Q.png",Fashion TV Asia
 https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLS-FTA/Fashion_TV.m3u8
+#EXTINF:-1 tvg-id="france24-arab" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/o1Vz78r.png",France 24 Arabic
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="france24-en" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/B76eSg2.png",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24Espanol.fr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/ZnmAXVv.png",France 24 Español
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="france24-fr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/u8N6uoj.png",France 24 French
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="food-network" tvg-logo="https://i.imgur.com/6l7us9Y.png" group-title="🌿| Khám phá",Food Network
@@ -454,6 +458,14 @@ http://49.0.64.96:8007/RAI_Asia
 http://178.212.71.253:8000/play/102/index.m3u8
 #EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today HD
 http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RTArabic.ru" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/G8vGrn1.png",Russia Today Arabic
+http://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RTDE.de" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/v1PIbB2.png",Russia Today Deutsch
+http://rt-ger.rttv.com/live/rtdeutsch/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today Español
+http://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RTFrance.fr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today French
+http://rt-fra.rttv.com/live/rtfrance/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Documentary
 http://178.212.71.253:8000/play/109/index.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Documentary HD
