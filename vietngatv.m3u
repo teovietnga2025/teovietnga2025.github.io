@@ -554,24 +554,24 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="360-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/YXDeX8q.png",360° Новости
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="7tv" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Wuy9Vtn.png",7TV
+http://v4.proofix.ru:80/7tv-live/index.m3u8
 #EXTINF:-1 tvg-id="8kanal-ru" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/lNuWRBb.png",8 канал
-http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
+http://v4.proofix.ru:80/8tv-russia/index.m3u8
+#EXTINF:-1 tvg-id="12-omsk" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="🇷🇺| Kênh khu vực",12 Канал
+http://gtrkomsk-live.cdnvideo.ru/gtrkomsk/gtrkomsk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="astana" tvg-logo="https://i.imgur.com/2wx5jF6.png" group-title="🇷🇺| Kênh khu vực",Astana TV
 http://sc.id-tv.kz/Astana.m3u8
 #EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://i.imgur.com/GTXkAUu.png" group-title="🇷🇺| Kênh khu vực",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="katun-24" tvg-logo="https://i.imgur.com/mr2Peqj.png" group-title="🇷🇺| Kênh khu vực",Катунь 24
 http://live.katun24.ru:8082/katun/katun/index.m3u8
-#EXTINF:-1 tvg-id="sibir24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/2QUxfhi.png",Сибирь 24
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
 #EXTINF:-1 tvg-id="soyuz" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/w3OewHc.png",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="moskva-24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/gXbUMVy.png",Москва 24
 http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe/playlist.m3u8
-#EXTINF:-1 tvg-id="prodvizhenie" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.imgur.com/JrOuqJy.png",Продвижение-Ленинск
-http://83.166.243.97:8081/ltv1TNT/1/chunks.m3u8
-#EXTINF:-1 tvg-id="tvk-krasnoyarsk" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.imgur.com/rW1BeJC.png",ТВК
-http://air.tvk6.ru/tvk24/playlist.m3u8
+#EXTINF:-1 tvg-id="prodvizhenie" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.imgur.com/JrOuqJy.png",Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 tvg-id="tnv-planeta" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/ijA1zDw.png",ТНВ-Планета
 http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 
@@ -616,7 +616,7 @@ http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="shopping-live" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/EMmGnjV.png",Shopping Live
 http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="shopping-live" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/lzQsVfn.png",Витрина ТВ
-http://178.212.71.253:8000/play/32/index.m3u8
+http://v4.proofix.ru:80/vitrina-live/index.m3u8
 #EXTINF:-1 tvg-name="Мой Мир" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/SLTHEVi.png",Мой Мир
 http://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 tvg-id="yuvelirochka" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/IcWtXCZ.png",Ювелирочка
@@ -755,6 +755,8 @@ http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd
 #EXTINF:-1 tvg-id="moya-planeta" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/uIiAdBv.png",Моя Планета
 http://178.212.71.253:8000/play/117/index.m3u8
+#EXTINF:-1 tvg-id="otkryty-mir" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/7orZOJA.png",Открытый мир. Здоровье
+http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/nZwBaeW.png",Охота и Рыбалка
 http://178.212.71.253:8000/play/93/index.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Bj1jI7F.png",Охотник и рыболов
@@ -828,8 +830,6 @@ https://tvcdn01.esilnet.kz/tv/24kz/index.m3u8
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="caspian-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/QUu4Gv0.png",Caspian News
 http://sc.id-tv.kz/CaspianNews.m3u8
-#EXTINF:-1 group-title="📰| Tin tức" tvg-id="cbc-az" tvg-logo="https://i.imgur.com/wVT0dwO.png",CBC
-https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 #EXTINF:-1 tvg-id="kazakh-tv" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/MY9CjUH.png",Silk Way TV
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/KI1qZNc.png",Вместе-РФ
