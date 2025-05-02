@@ -403,12 +403,8 @@ https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist_b2500000.m3u8
 https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="fashiontvhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/GFTAN5Q.png",Fashion TV Asia
 https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLS-FTA/Fashion_TV.m3u8
-#EXTINF:-1 tvg-id="france24-arab" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/o1Vz78r.png",France 24 Arabic
-https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="france24-en" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/B76eSg2.png",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24Espanol.fr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/ZnmAXVv.png",France 24 Español
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="france24-fr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/u8N6uoj.png",France 24 French
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="food-network" tvg-logo="https://i.imgur.com/6l7us9Y.png" group-title="🌿| Khám phá",Food Network
@@ -458,16 +454,8 @@ http://49.0.64.96:8007/RAI_Asia
 http://178.212.71.253:8000/play/102/index.m3u8
 #EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today HD
 http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RTArabic.ru" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/G8vGrn1.png",Russia Today Arabic
-http://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RTArabic.ru" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today Balkan
-http://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDE.de" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/v1PIbB2.png",Russia Today Deutsch
 http://rt-ger.rttv.com/live/rtdeutsch/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RTenEspanol.ru" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today Español
-http://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RTFrance.fr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today French
-http://rt-fra.rttv.com/live/rtfrance/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Documentary
 http://178.212.71.253:8000/play/109/index.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Documentary HD
@@ -953,3 +941,26 @@ http://chanson.hostingradio.ru:8041/chanson256.mp3
 http://icecast.newradio.cdnvideo.ru/newradio3
 #EXTINF:-1 tvg-id="retro-fm" group-title="📻| Radio" tvg-id="retro-fm" tvg-logo="https://i.imgur.com/r03g93Q.png" radio="true",Ретро FM
 http://retroserver.streamr.ru:8043/retro128
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png",TV360+1
+https://xem.TruyenHinh.Click/CoBan/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png",TV360+2
+https://xem.TruyenHinh.Click/CoBan/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_480_270.png",TV360+3
+https://xem.TruyenHinh.Click/CoBan/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_480_270.png",TV360+4
+https://xem.truyenhinh.click/CoBan/tv360.sk4/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_640_360.png",TV360+5
+https://xem.truyenhinh.click/CoBan/tv360.sk5/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_640_360.png",TV360+6
+https://xem.truyenhinh.click/CoBan/tv360.sk6/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png",TV360+7
+https://xem.truyenhinh.click/CoBan/tv360.sk7/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_640_360.png",TV360+8
+https://xem.truyenhinh.click/CoBan/tv360.sk8/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png",TV360+9
+https://xem.truyenhinh.click/CoBan/tv360.sk9/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835047229/a15638593826_640_360.png",Mê Kông
+https://xem.TruyenHinh.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png",Phim Âu Mỹ
+https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
