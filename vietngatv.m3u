@@ -444,8 +444,6 @@ https://cdn2.skygo.mn/live/disk1/NHK_World_Premium/HLS-FTA/NHK_World_Premium.m3u
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Kh4MWaY.png",Outdoor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/mt4h3VO.png",Phoenix Infonews Channel
-http://p1.cvtv.xyz:81/phx?token=live
 #EXTINF:-1 tvg-id="PhoenixHongKongChannel.hk" tvg-logo="https://i.imgur.com/E0DQnRo.png" group-title="🌐| Thiết yếu",Phoenix Hong Kong Channel
 http://110.235.82.60:8001/bysid/85
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
@@ -454,6 +452,8 @@ https://xem.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh.m3u8
 http://49.0.64.96:8007/RAI_Asia
 #EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
 http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RTDE.de" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/v1PIbB2.png",Russia Today Deutsch
+http://rt-ger.rttv.com/live/rtdeutsch/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="rtd-en" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Documentary
 http://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="rtvi" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/1AEhXyS.png",RTVI
