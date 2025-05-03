@@ -662,8 +662,6 @@ http://95.142.88.250/Amedia_Hit_HD/tracks-v1a1/mono.m3u8
 http://31.148.48.15/Amedia_Premium_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/b5e9qUA.png",Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="el-arna" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/XYsLe2Q.png",El Arna
-http://sc.id-tv.kz/ElArna_34_35.m3u8
 #EXTINF:-1 tvg-id="hollywood" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/1j7cT2I.png",HOLLYWOOD
 http://31.148.48.15/MGM_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vremia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/jZlj3ga.png",Время
@@ -732,6 +730,8 @@ http://178.212.71.253:8000/play/67/index.m3u8
 http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 tvg-id="rtg-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV
 http://178.212.71.253:8000/play/71/index.m3u8
+#EXTINF:-1 tvg-id="the-explorers" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/RskJRMl.png",The Explorers
+http://sc.id-tv.kz/ElArna_34_35.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://i.imgur.com/DBpVeb0.png" group-title="🌿| Khám phá",Арсенал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s68/04.m3u8
