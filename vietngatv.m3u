@@ -255,9 +255,9 @@ http://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",HanoiTV2 | Đài Hà Nội
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/78fQx65.png",HanoiTV3 | HiTV
+#EXTINF:-1 tvg-id="hitv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/78fQx65.png",HanoiTV3 | HiTV
 https://xem.TruyenHinh.Click/CoBan/185.HiTV/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/DlZYnPf.png",HanoiTV4 | YouTV
+#EXTINF:-1 tvg-id="youtv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/DlZYnPf.png",HanoiTV4 | YouTV
 https://xem.TruyenHinh.Click/CoBan/31.YouTV/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="bacgiang" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/j9lbGel.png",BGTV HD | TH Bắc Giang
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8
@@ -483,11 +483,11 @@ http://49.0.64.96:8007/Zoomoo
 #EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/QSVbW7r.png",Первый канал. Всемирная сеть
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/f54OT4e.png",РТР-Планета Азия
+#EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/f54OT4e.png",РТР Планета Азия
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363/playlist.m3u8
-#EXTINF:-1 tvg-id="match-tv" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",МАТЧ!
+#EXTINF:-1 tvg-id="match-tv" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч!
 http://178.212.71.253:8000/play/3/index.m3u8
-#EXTINF:-1 tvg-id="ntv-mir" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/VJuvM2K.png",НТВ МИР
+#EXTINF:-1 tvg-id="ntv-mir" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/VJuvM2K.png",НТВ Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 tvg-id="piaty-int" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/Q2Q7Mgr.png",Пятый канал International
@@ -521,7 +521,7 @@ http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ International
 https://cdn2.skygo.mn/live/disk1/THT/HLS-FTA/THT.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ-ТВ
-http://178.124.179.122:8088/MuzTV/index.m3u8
+http://178.124.179.122:8088/MuzTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tnt4-international" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/gBokU5i.png",ТНТ4 International
 https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/RenuH4S.png",ТНТ Music
@@ -572,6 +572,8 @@ http://live.katun24.ru:8082/katun/katun/index.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="moskva-24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/gXbUMVy.png",Москва 24
 http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe/playlist.m3u8
+#EXTINF:-1 tvg-id="doverie" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.imgur.com/QDqDQzt.png",Москва Доверие
+http://213.91.178.133:8000/play/a0b2
 #EXTINF:-1 tvg-id="prodvizhenie" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.imgur.com/JrOuqJy.png",Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 tvg-id="tnv-planeta" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/ijA1zDw.png",ТНВ-Планета
@@ -643,9 +645,13 @@ http://ott-cdn.ucom.am/s57/index.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/RU5PcqJ.png",Детский мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s58/04.m3u8
+#EXTINF:-1 tvg-id="malysh" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/c0zZUR1.png",Супергерои
+http://178.124.179.122:8088/Malish/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/o9kLpAL.png",CTC Kids
 http://178.212.71.253:8000/play/112/index.m3u8
 
+#EXTINF:-1 tvg-id="sony-scifi" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/nSSUHcg.png",.Sci-Fi
+http://178.124.179.122:8088/Sci-Fi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="amedia1" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/2pAHdAi.png",AMEDIA 1
 http://sc.id-tv.kz/A1.m3u8
 #EXTINF:-1 tvg-id="amedia2" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/NqHla2V.png",AMEDIA 2
@@ -782,6 +788,8 @@ http://178.212.71.253:8000/play/90/index.m3u8
 http://178.212.71.253:8000/play/93/index.m3u8
 #EXTINF:-1 tvg-id="texno-24" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/1W6R14o.png",Техно 24
 http://178.212.71.253:8000/play/63/index.m3u8
+#EXTINF:-1 tvg-id="tri-angela" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/4fhBbam.png",Три Ангела
+http://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1 tvg-id="telekafe" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/1H3h1HL.png",Телекафе
 https://cdn2.skygo.mn/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
 #EXTINF:-1 tvg-id="teleputeshestvia" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/eXJm1n3.png",ТЕЛЕПУТЕШЕСТВИЯ
