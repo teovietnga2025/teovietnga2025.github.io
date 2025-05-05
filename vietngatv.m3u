@@ -409,13 +409,13 @@ https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist_b2500000.m3u8
 https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="fashiontvhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/GFTAN5Q.png",Fashion TV Asia
 https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLS-FTA/Fashion_TV.m3u8
+#EXTINF:-1 tvg-id="food-network" tvg-logo="https://i.imgur.com/6l7us9Y.png" group-title="🌿| Khám phá",Food Network Southeast Asia (Русский)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 tvg-id="france24-en" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/B76eSg2.png",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="france24-fr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/u8N6uoj.png",France 24 French
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="food-network" tvg-logo="https://i.imgur.com/6l7us9Y.png" group-title="🌿| Khám phá",Food Network Southeast Asia (Русский)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.my" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/Kir4aaU.png",Golf Channel Asia
 http://49.0.64.96:8007/GOLF
 #EXTINF:-1 tvg-id="happykids" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
