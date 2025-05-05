@@ -424,6 +424,8 @@ http://125hvt.ddns.net:21585/hbo/index.m3u8
 https://xem.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassichd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
 https://xem.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="insight-tv-hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/7xmaoL0.png",Insight TV
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/xbJFhlT.png",InTheBOX Channel
 https://xem.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="KBSKorea.kr" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Dy1xwEd.png",KBS Korea
