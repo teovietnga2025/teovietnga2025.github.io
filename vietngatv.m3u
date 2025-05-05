@@ -234,7 +234,7 @@ http://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
 http://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="kontum" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/PKyIRIJ.png",KRT HD | TTTT Tỉnh Kon Tum
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
-#EXTINF:-1 tvg-id="nghean" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/FLvFSLS.png",NTV HD | TH Nghệ An
+#EXTINF:-1 tvg-id="nghean" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/FLvFSLS.png",NTV HD | Báo & TH Nghệ An
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 #EXTINF:-1 tvg-id="ninhthuan" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/9bFk5Lj.png",NTV HD | Báo & TH Ninh Thuận
 https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
