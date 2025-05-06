@@ -454,6 +454,8 @@ https://cdn2.skygo.mn/live/disk1/NHK_World_Premium/HLS-FTA/NHK_World_Premium.m3u
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Kh4MWaY.png",Outdoor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="📰| Tin tức" tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/jP0rB8j.png",Sky News
+https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_mob.m3u8
 #EXTINF:-1 tvg-id="PhoenixHongKongChannel.hk" tvg-logo="https://i.imgur.com/E0DQnRo.png" group-title="🌐| Thiết yếu",Phoenix Hong Kong Channel
 http://110.235.82.60:8001/bysid/85
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
@@ -845,8 +847,6 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1/playlist.m3u8
 #EXTINF:-1 tvg-id="ktk-kz" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/BurrNTo.png",КТК
 http://sc.id-tv.kz/KTK_34_35.m3u8
-#EXTINF:-1 tvg-id="tolk" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/nk0iycg.png",Толк
-http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="xabar" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/xG3HxId.png",Хабар
 http://sc.id-tv.kz/Khabar.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/gCmCRfe.png",ЛДПР ТВ
