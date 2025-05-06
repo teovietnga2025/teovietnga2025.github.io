@@ -420,6 +420,8 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 http://49.0.64.96:8007/GOLF
 #EXTINF:-1 tvg-id="happykids" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
 https://xem.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="hgtv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/BwBr0ib.png",HGTV Asia
+https://xem.TruyenHinh.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO Asia
 http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/KUJDSbK.png",History SEA
@@ -447,8 +449,9 @@ https://xem.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh.m3u8
 http://31.148.48.15/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NeiMonggolTV.cn" tvg-logo="https://i.imgur.com/WeugJBE.png" group-title="🌏| Đối ngoại",Nei Monggol TV
 https://cdn4.skygo.mn/live/disk1/NeigMGL/HLS-FTA/NeigMGL.m3u8
-#EXTINF:-1 tvg-id="nhk-world" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+#EXTINF:-1 tvg-id="nhkworld" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK World Premium
 https://cdn2.skygo.mn/live/disk1/NHK_World_Premium/HLS-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Kh4MWaY.png",Outdoor
@@ -935,24 +938,26 @@ http://icecast.newradio.cdnvideo.ru/newradio3
 #EXTINF:-1 tvg-id="retro-fm" group-title="📻| Radio" tvg-id="retro-fm" tvg-logo="https://i.imgur.com/r03g93Q.png" radio="true",Ретро FM
 http://retroserver.streamr.ru:8043/retro128
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png",TV360+1
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/64r9a8f.png",TV360+1
 https://xem.TruyenHinh.Click/CoBan/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png",TV360+2
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/Aix7lFW.png",TV360+2
 https://xem.TruyenHinh.Click/CoBan/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_480_270.png",TV360+3
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/E8jruP0.png",TV360+3
 https://xem.TruyenHinh.Click/CoBan/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_480_270.png",TV360+4
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/DNPPCMG.png",TV360+4
 https://xem.truyenhinh.click/CoBan/tv360.sk4/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_640_360.png",TV360+5
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/zJCCZfk.png",TV360+5
 https://xem.truyenhinh.click/CoBan/tv360.sk5/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_640_360.png",TV360+6
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/3qsd9Os.png",TV360+6
 https://xem.truyenhinh.click/CoBan/tv360.sk6/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png",TV360+7
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/PHv952E.png",TV360+7
 https://xem.truyenhinh.click/CoBan/tv360.sk7/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_640_360.png",TV360+8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/ytWk07o.png",TV360+8
 https://xem.truyenhinh.click/CoBan/tv360.sk8/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png",TV360+9
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/FE1lVL6.png",TV360+9
 https://xem.truyenhinh.click/CoBan/tv360.sk9/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/PDFu7es.png",TV360 Live
+https://xem.TruyenHinh.Click/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835047229/a15638593826_640_360.png",Mê Kông
 https://xem.TruyenHinh.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png",Phim Âu Mỹ
