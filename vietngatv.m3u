@@ -365,6 +365,8 @@ https://xem.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh.m3u8
 https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/6vYWCD0.png",Cartoonito Asia
 https://cdn2.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-id="CCTV4" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/XXBAJpA.png",CCTV-4 Asia
+http://p1.cvtv.xyz:81/c4?token=live
 #EXTINF:-1 tvg-id="CCTV5+" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+
 http://49.0.64.96:8007/CCTV-5
 #EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14
@@ -459,6 +461,8 @@ https://cdn2.skygo.mn/live/disk1/NHK_World_Premium/HLS-FTA/NHK_World_Premium.m3u
 http://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="📰| Tin tức" tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/jP0rB8j.png",Sky News
 https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_mob.m3u8
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/mt4h3VO.png",Phoenix Infonews Channel
+http://p1.cvtv.xyz:81/phx?token=live
 #EXTINF:-1 tvg-id="PhoenixHongKongChannel.hk" tvg-logo="https://i.imgur.com/E0DQnRo.png" group-title="🌐| Thiết yếu",Phoenix Hong Kong Channel
 http://110.235.82.60:8001/bysid/85
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
