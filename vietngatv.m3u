@@ -936,7 +936,7 @@ http://ic7.101.ru:8000/v3_1
 #EXTINF:-1 group-title="📻| Radio" tvg-id="europa-plus-radio" tvg-logo="https://i.imgur.com/0E4jjSG.png" radio="true",Радио Европа Плюс
 http://ep128.hostingradio.ru:8030/ep128
 #EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://www.lyngsat.com/logo/radio/rr/russkoe-radio-ru.svg" radio="true",Русское Радио
-http://rusradio.hostingradio.ru/rusradio96.aacp?0.4177960461051895
+http://rusradio.hostingradio.ru/rusradio128.mp3
 #EXTINF:-1 group-title="📻| Radio" tvg-id="radio-shanson" tvg-logo="https://i.imgur.com/lbqM3K2.png" radio="true",Радио Шансон
 http://chanson.hostingradio.ru:8041/chanson256.mp3
 #EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/AsMjZ51.png" radio="true",Новое Радио
