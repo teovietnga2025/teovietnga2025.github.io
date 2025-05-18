@@ -221,7 +221,7 @@ http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 tvg-id="daknong" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/pP17qVw.png",PTD HD | TH Đắk Nông
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="gialai" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/z7l0ZZg.png",THGL | TH Gia Lai
+#EXTINF:-1 tvg-id="gialai" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/z7l0ZZg.png",THGL | Báo Gia Lai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/epzsd1/gialai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/9Xvkkm3.png",BHT TV | Báo Hà Tĩnh
@@ -935,7 +935,7 @@ http://icecast-rian.cdnvideo.ru/voiceenghi
 http://ic7.101.ru:8000/v3_1
 #EXTINF:-1 group-title="📻| Radio" tvg-id="europa-plus-radio" tvg-logo="https://i.imgur.com/0E4jjSG.png" radio="true",Радио Европа Плюс
 http://ep128.hostingradio.ru:8030/ep128
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://www.lyngsat.com/logo/radio/rr/russkoe-radio-ru.svg" radio="true",Русское Радио
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://teovietnga2025.github.io/logoradio/russkoe-radio-ru.png" radio="true",Русское Радио
 http://rusradio.hostingradio.ru/rusradio128.mp3
 #EXTINF:-1 group-title="📻| Radio" tvg-id="radio-shanson" tvg-logo="https://i.imgur.com/lbqM3K2.png" radio="true",Радио Шансон
 http://chanson.hostingradio.ru:8041/chanson256.mp3
