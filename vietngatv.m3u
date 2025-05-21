@@ -962,6 +962,8 @@ http://82.215.111.227/1422/tracks-v1a1/mono.m3u8
 http://109.248.236.51/khl_prime/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="m1global" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/QhdxNsB.png",MMA-TV
 http://82.215.111.227/1226/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ufc" group-title="⚽| Thể thao" tvg-logo="https://i.postimg.cc/KY0ZLQXD/ufc.png",UDAR
+http://162.19.205.146/10507/tracks-v1a1/mono.m3u8?token=F114E24B2461
 #EXTINF:-1 tvg-id="viasat-sport" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/fXESG0l.png",Viju+ Sport
 http://82.215.111.227/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="avto24" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/GXSXmN2.png",Авто 24
