@@ -593,6 +593,8 @@ http://v4.proofix.ru:80/7tv-live/index.m3u8
 #EXTINF:-1 tvg-id="8kanal-ru" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/lNuWRBb.png",8 канал
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
 #EXTINF:-1 tvg-id="12-omsk" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="🇷🇺| Kênh khu vực",12 Канал
+https://streaming.thestream.cyou/live/7004-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="12-omsk" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="🇷🇺| Kênh khu vực",12 Канал HD
 http://gtrkomsk-live.cdnvideo.ru/gtrkomsk/gtrkomsk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="astana" tvg-logo="https://i.imgur.com/2wx5jF6.png" group-title="🇷🇺| Kênh khu vực",Astana TV
 http://sc.id-tv.kz/Astana.m3u8
