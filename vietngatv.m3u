@@ -614,7 +614,7 @@ http://sc.id-tv.kz/HitTV.m3u8
 #EXTINF:-1 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/auNdGeW.png",Mezzo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s35/04.m3u8
-#EXTINF:-1 tvg-id="la-minor" group-title="🎧| Âm nhạc" tvg-logo="https://epg.iptvx.one/picons/la-minor.png",Музыка Live
+#EXTINF:-1 tvg-id="la-minor" group-title="🎧| Âm nhạc" tvg-logo="https://i.postimg.cc/437MNP5S/la-minor.png",Музыка Live
 http://a001z.rafail1982.uz/1238/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/U0vKj3P.png",Музыка Первого
 https://cdn2.skygo.mn/live/disk1/Muzika/HLS-FTA/Muzika.m3u8
