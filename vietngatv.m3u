@@ -488,8 +488,7 @@ http://49.0.64.96:8007/RAI_Asia
 #EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
 http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Documentary
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s93/04.m3u8
+https://streaming.thestream.cyou/live/554-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="rtvi" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/1AEhXyS.png",RTVI
 http://45.143.108.110:2203/RTVi
 #EXTINF:-1 tvg-id="TDMMacauSatellite.mo" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/iIfZsD6.png",TDM Macau
