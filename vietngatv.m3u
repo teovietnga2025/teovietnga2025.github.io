@@ -888,7 +888,7 @@ http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 http://sc.id-tv.kz/CaspianNews.m3u8
 #EXTINF:-1 tvg-id="kazakh-tv" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/MY9CjUH.png",Silk Way TV
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
-#EXTINF:-1 tvg-id="kazakhstan" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/oI8g396.png",Qazaqstan
+#EXTINF:-1 tvg-id="kazakhstan" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/oI8g396.png",Qazaqstan
 http://a001b.rafail1982.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/KI1qZNc.png",Вместе-РФ
 http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
