@@ -760,9 +760,9 @@ http://31.148.48.15/TV_XXI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NfnAiTR.png" tvg-id="365-dnej" group-title="🌿| Khám phá",365 дней ТВ
 http://a001z.rafail1982.uz/1242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="myzen-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZMKPAho.png",MyZen.TV
-http://31.148.48.15/RTG/tracks-v1a1/mono.m3u8
+http://a001z.rafail1982.uz/1252/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="museum-hd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/WbjURLo.png",Museum
-http://31.148.48.15/RTG/tracks-v1a1/mono.m3u8
+http://a001z.rafail1982.uz/1451/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/fPvfVIe.png",Ocean TV
 http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 tvg-id="rtg-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV
