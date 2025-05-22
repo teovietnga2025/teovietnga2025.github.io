@@ -616,8 +616,6 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1hd" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/4Ww7CsR.png",1 HD Music Television
 http://a001z.rafail1982.uz/1267/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="aiva" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/Wt88mg6.png",AIVA
-http://a001z.rafail1982.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/qYObfrG.png",Bridge
 http://31.148.48.15/Bridge_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/JJTQq81.png",Bridge Classic
@@ -1012,6 +1010,8 @@ https://stream-cdn.vov.vn/live/vov24_7-audio_only.m3u8
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio.vovGTHCM" group-title="📻| Radio" tvg-logo="https://i.imgur.com/Wu8zN9H.png" radio="true",VOV Giao Thông TP.HCM
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📻| Radio" tvg-logo="https://i.imgur.com/Wu8zN9H.png" radio="true",VOV Giao Thông Duyên Hải
+http://media.kythuatvov.vn:7025/
 #EXTINF:-1 tvg-id="Radio.vovGTMekong" group-title="📻| Radio" tvg-logo="https://i.imgur.com/2tMmok6.png" radio="true",VOV Giao Thông Mê Kông
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-id="vesti-fm" tvg-logo="https://i.imgur.com/v3Qejm1.png" radio="true",Вести FM
