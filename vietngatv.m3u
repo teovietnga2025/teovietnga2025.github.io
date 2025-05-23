@@ -414,7 +414,7 @@ http://45.143.108.110:2203/RTVi
 https://cdn2.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC Southeast Asia
 http://125hvt.ddns.net:21585/tlc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8KQirah.png",Travelxp
+#EXTINF:-1 tvg-id="Travelxp.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8KQirah.png",TravelXp
 http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRTWorldHD" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/XLaZUzJ.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
@@ -494,6 +494,8 @@ http://45.143.108.110:2200/rutv
 #EXTINF:-1 tvg-id="ru-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/Z7HUU7V.png",RU.TV HD
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-id="rbk" group-title="📈| Kinh tế" tvg-logo="https://i.imgur.com/CwhmJby.png",РБК
+http://45.11.139.43:8555/rbk/index.m3u8
+#EXTINF:-1 tvg-id="rbk" group-title="📈| Kinh tế" tvg-logo="https://i.imgur.com/CwhmJby.png",РБК HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="izvestia" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/o4Julue.jpg",Телеканал Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -668,8 +670,6 @@ http://109.248.236.51/mir_seriala/tracks-v1a1/mono.m3u8
 http://109.248.236.51/muzhskoe_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="indiyskoe-kino" tvg-logo="https://i.imgur.com/LL8GyCh.png",Индийское кино
 http://109.248.236.51/indiyskoe_kino/mono.m3u8
-#EXTINF:-1 tvg-id="retro-tv" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/p21co1w.png",Ретро
-http://194.158.218.123:8880/Retrotv/index.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/H70LxoZ.png",РОДНОЕ КИНО
 http://109.248.236.51/rodnoe_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/w0ZE9QJ.png",Русский Бестселлер
@@ -819,6 +819,8 @@ http://45.143.108.110:4200/INTER
 http://sc.id-tv.kz/Khabar.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/gCmCRfe.png",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="h1-am" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/HIwJ4lc.png",Հայաստան 1
+http://45.11.139.43:8555/h1/index.m3u8
 
 #EXTINF:-1 tvg-id="fastfunbox-hd" tvg-logo="https://i.imgur.com/uVjmsZK.png" group-title="⚽| Thể thao",Fast&Fun Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
