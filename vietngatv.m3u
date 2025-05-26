@@ -358,10 +358,6 @@ https://cdn4.skygo.mn/live/disk1/SoutheastAsia/HLSv3-FTA/SoutheastAsia.m3u8
 https://cdn2.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id="ducktv" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/gRFQ35W.png",DUCK TV
 http://178.217.72.66:8080/ducktv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DubaiSports2.ae" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/PMJ7Zmo.png",Dubai Sport 2
-https://streaming.thestream.cyou/live/7010-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 tvg-id="DubaiSports3.ae" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/U0A8Gex.png",Dubai Sport 3
-https://streaming.thestream.cyou/live/7011-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/kNuVxxR.png",DW English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist_b2500000.m3u8
@@ -509,16 +505,12 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/dj9c8Yd.png",МИР 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" group-title="🇷🇺| Kênh khu vực" group-logo="https://i.imgur.com/Bg2lv4N.png" tvg-logo="https://i.imgur.com/VTJqdoX.png",360°
-https://streaming.thestream.cyou/live/7000-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 tvg-id="360-podmoskovie" group-title="🇷🇺| Kênh khu vực" group-logo="https://i.imgur.com/Bg2lv4N.png" tvg-logo="https://i.imgur.com/VTJqdoX.png",360° HD
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="360-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/YXDeX8q.png",360° Новости
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="8kanal-ru" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/lNuWRBb.png",8 канал
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
 #EXTINF:-1 tvg-id="12-omsk" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="🇷🇺| Kênh khu vực",12 канал (Омск)
-https://streaming.thestream.cyou/live/7006-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 tvg-id="12-omsk" tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="🇷🇺| Kênh khu vực",12 канал HD (Омск)
 http://gtrkomsk-live.cdnvideo.ru/gtrkomsk/gtrkomsk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="astana" tvg-logo="https://i.imgur.com/2wx5jF6.png" group-title="🇷🇺| Kênh khu vực",Astana TV
 http://sc.id-tv.kz/Astana.m3u8
@@ -827,13 +819,11 @@ http://sc.id-tv.kz/CaspianNews.m3u8
 #EXTINF:-1 tvg-id="kazakh-tv" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/MY9CjUH.png",Silk Way TV
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/KI1qZNc.png",Вместе-РФ
-https://streaming.thestream.cyou/live/7006-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 tvg-id="vmeste-rf" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/KI1qZNc.png",Вместе-РФ HD
 http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dumatv" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/JvlO3PU.png",Дума ТВ
 http://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="belarus24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/BP7tY6F.png",Беларусь 24
-https://streaming.thestream.cyou/live/7003-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://45.143.108.110:2200/belarus24
 #EXTINF:-1 tvg-id="belarus24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/BP7tY6F.png",Беларусь 24 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tro" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/tUF33HD.png",БелРос
@@ -872,8 +862,6 @@ http://45.143.108.110:2200/viasatsport
 http://109.248.236.51/avto24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="avto-plus" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/sVc8cFt.png",Авто плюс
 http://109.248.236.51/avtoplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="belarus5" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/NJsRFud.png",Беларусь 5
-https://streaming.thestream.cyou/live/7001-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="box-tv" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
 http://31.148.48.15/Boks_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="drive" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/FnuwfSC.png",Драйв
