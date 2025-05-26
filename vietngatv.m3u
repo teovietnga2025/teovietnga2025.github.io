@@ -939,6 +939,24 @@ http://media.kythuatvov.vn:7025/
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.postimg.cc/52HfgV7g/BBC-World-Service.png" radio="true",BBC World Service English East Asia
 http://as-hls-ww-live.akamaized.net/pool_31623735/live/ww/bbc_world_service_east_asia/bbc_world_service_east_asia.isml/bbc_world_service_east_asia-audio%3d320000.norewind.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Vkc0GtkG/chinaplusradio.png" group-title="📻| Radio" radio="true",China Plus Radio
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Vkc0GtkG/chinaplusradio.png" group-title="📻| Radio" radio="true",China Plus Radio
+http://sk.cri.cn/am1008.m3u8
+#EXTINF:-1 tvg-name="轻松调频" tvg-logo="https://i.postimg.cc/8PjsQKVc/cri-ez-fm-cn.png" group-title="📻| Radio" radio="true",CRI EZFM
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1 tvg-name="HITFM劲曲调频" tvg-logo="https://i.postimg.cc/23pstSD4/cri-hit-fm-887-cn.png" group-title="📻| Radio" radio="true",CRI HITFM
+http://sk.cri.cn/887.m3u8
+#EXTINF:-1 tvg-name="环球资讯广播" tvg-logo="https://i.postimg.cc/k5rkX46z/cri-news-radio-cn.png" group-title="📻| Radio" radio="true",CRI News Radio
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Et3vExm.png" group-title="📻| Radio" radio="true",NHK World Radio
+https://nhkwlive-radio.akamaized.net/hls/live/2032384/radio-rs5/index_07.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.postimg.cc/x1FPzWqL/RFI.png" radio="true",Radio France Internationale
+http://rfimonde96k.ice.infomaniak.ch/rfimonde-96k.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSthtx1Z/Rdp-Internacional.png" group-title="📻| Radio" radio="true",RDP Internacional
+https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBMw6PPL/Radio-Exterior.png" group-title="📻| Radio" radio=true,RNE Radio Exterior
+http://rtvelivestream.akamaized.net/rtvesec/rne/rne_re_main.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-id="vesti-fm" tvg-logo="https://i.imgur.com/v3Qejm1.png" radio="true",Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
 #EXTINF:-1 group-title="📻| Radio" tvg-id="radio-mayak" tvg-logo="https://i.imgur.com/1FtDGbZ.png" radio="true",Маяк
