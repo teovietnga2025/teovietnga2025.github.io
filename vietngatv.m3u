@@ -910,28 +910,3 @@ http://chanson.hostingradio.ru:8041/chanson256.mp3
 http://icecast.newradio.cdnvideo.ru/newradio3
 #EXTINF:-1 tvg-id="retro-fm" group-title="📻| Radio" tvg-id="retro-fm" tvg-logo="https://i.imgur.com/r03g93Q.png" radio="true",Ретро FM
 http://retroserver.streamr.ru:8043/retro128
-
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/64r9a8f.png",TV360+1
-https://xem.TruyenHinh.Click/CoBan/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/Aix7lFW.png",TV360+2
-https://xem.TruyenHinh.Click/CoBan/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/E8jruP0.png",TV360+3
-https://xem.TruyenHinh.Click/CoBan/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/DNPPCMG.png",TV360+4
-https://xem.truyenhinh.click/CoBan/tv360.sk4/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/zJCCZfk.png",TV360+5
-https://xem.truyenhinh.click/CoBan/tv360.sk5/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/3qsd9Os.png",TV360+6
-https://xem.truyenhinh.click/CoBan/tv360.sk6/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/PHv952E.png",TV360+7
-https://xem.truyenhinh.click/CoBan/tv360.sk7/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/ytWk07o.png",TV360+8
-https://xem.truyenhinh.click/CoBan/tv360.sk8/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/FE1lVL6.png",TV360+9
-https://xem.truyenhinh.click/CoBan/tv360.sk9/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/PDFu7es.png",TV360 Live
-https://xem.TruyenHinh.Click/CoBan/tv360.live/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835047229/a15638593826_640_360.png",Mê Kông
-https://xem.TruyenHinh.Click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png",Phim Âu Mỹ
-https://xem.TruyenHinh.Click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
