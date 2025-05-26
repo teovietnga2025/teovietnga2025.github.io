@@ -404,10 +404,9 @@ http://110.235.82.60:8001/bysid/85
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/1nN4rEP.png",Rai Italia Asia
 http://49.0.64.96:8007/RAI_Asia
 #EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
-http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+http://45.143.108.110:2200/RT
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Documentary
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s93/04.m3u8
+http://45.143.108.110:2200/RTDOC
 #EXTINF:-1 tvg-id="rtvi" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/1AEhXyS.png",RTVI
 http://45.143.108.110:2203/RTVi
 #EXTINF:-1 tvg-id="TDMMacauSatellite.mo" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/iIfZsD6.png",TDM Macau
@@ -804,8 +803,6 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1/playlist.m3u8
 #EXTINF:-1 tvg-id="ktk-kz" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/BurrNTo.png",КТК
 http://sc.id-tv.kz/KTK_34_35.m3u8
-#EXTINF:-1 tvg-id="inter-plus-ua" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Y392Hh4.png",Інтер+
-http://45.143.108.110:4200/INTER
 #EXTINF:-1 tvg-id="xabar" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/xG3HxId.png",Хабар
 http://sc.id-tv.kz/Khabar.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/gCmCRfe.png",ЛДПР ТВ
