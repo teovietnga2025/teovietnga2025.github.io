@@ -403,10 +403,12 @@ https://cdn2.skygo.mn/live/disk1/NHK_World_Premium/HLS-FTA/NHK_World_Premium.m3u
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Kh4MWaY.png",Outdoor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="PhoenixHongKongChannel.hk" tvg-logo="https://i.imgur.com/E0DQnRo.png" group-title="🌐| Thiết yếu",Phoenix Hong Kong Channel
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/n93KZnX.png" group-title="🌏| Đối ngoại",Phoenix Chinese Channel
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="PhoenixHongKongChannel.hk" tvg-logo="https://i.imgur.com/E0DQnRo.png" group-title="🌏| Đối ngoại",Phoenix Hong Kong Channel
 http://110.235.82.60:8001/bysid/85
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="📰| Tin tức",Phoenix InfoNews Channel
-http://sv.cvtv.xyz:81/phx?token=live
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/1nN4rEP.png",Rai Italia Asia
 http://49.0.64.96:8007/RAI_Asia
 #EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
@@ -831,6 +833,8 @@ http://ott-cdn.ucom.am/s20/03.m3u8
 http://sc.id-tv.kz/Khabar_24.m3u8
 #EXTINF:-1 tvg-id="xabar24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/i3Q4XES.png",24KZ HD
 https://tvcdn01.esilnet.kz/tv/24kz/index.m3u8
+#EXTINF:-1 tvg-id="1plus1" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/smQKa2G.png",1+1 Марафон
+https://live20.bozztv.com/trn03/gin-1plus1/index.m3u8
 #EXTINF:-1 tvg-id="armenia-tv" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/UnoI5uM.png",Armenia TV
 http://109.200.130.123:7537/play/a035
 #EXTINF:-1 tvg-id="atameken-business" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/CfRvm8i.png",Atameken Business
@@ -839,17 +843,15 @@ http://109.248.236.51/atameken/tracks-v1a1/mono.m3u8
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="caspian-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/QUu4Gv0.png",Caspian News
 http://sc.id-tv.kz/CaspianNews.m3u8
-#EXTINF:-1 tvg-id="ua-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png" group-title="📰| Tin tức",FREEДOM
-http://95.67.106.242/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 tvg-id="kazakh-tv" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/MY9CjUH.png",Silk Way TV
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/KI1qZNc.png",Вместе-РФ
 http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dumatv" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/JvlO3PU.png",Дума ТВ
 http://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="belarus24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/BP7tY6F.png",Беларусь 24
+#EXTINF:-1 tvg-id="belarus24" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/BP7tY6F.png",Беларусь 24
 http://45.143.108.110:2200/belarus24
-#EXTINF:-1 tvg-id="belarus24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/BP7tY6F.png",Беларусь 24 HD
+#EXTINF:-1 tvg-id="belarus24" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/BP7tY6F.png",Беларусь 24 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tro" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/tUF33HD.png",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
@@ -857,12 +859,16 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1/playlist.m3u8
 #EXTINF:-1 tvg-id="ktk-kz" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/BurrNTo.png",КТК
 http://sc.id-tv.kz/KTK_34_35.m3u8
+#EXTINF:-1 tvg-id="pervy-info-by" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/eIiXRAI.png",Первый Информационный
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="xabar" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/xG3HxId.png",Хабар
 http://sc.id-tv.kz/Khabar.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/gCmCRfe.png",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="h1-am" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/HIwJ4lc.png",Հայաստան 1
-http://45.11.139.43:8555/h1/index.m3u8
+https://live20.bozztv.com/dvrfl05/gin-armeniaeu1/index.m3u8
+#EXTINF:-1 tvg-id="kentron-tv" tvg-logo="https://i.imgur.com/eCaxBFn.png" group-title="🌐| Thiết yếu",Կենտրոն հեռուստատեսություն
+https://live20.bozztv.com/trn03/gin-kentron/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="⚽| Thể thao",Eurosport
 http://178.217.72.66:8080/Eurosport_HD/tracks-v1a1/mono.m3u8
