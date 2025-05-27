@@ -939,7 +939,7 @@ http://media.kythuatvov.vn:7025/
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.postimg.cc/52HfgV7g/BBC-World-Service.png" radio="true",BBC World Service English East Asia
 http://as-hls-ww-live.akamaized.net/pool_31623735/live/ww/bbc_world_service_east_asia/bbc_world_service_east_asia.isml/bbc_world_service_east_asia-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Vkc0GtkG/chinaplusradio.png" group-title="📻| Radio" radio="true",China Plus Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MTn3QGG7/cgtn-radio-cn.png" group-title="📻| Radio" radio="true",CGTN Radio
 http://sk.cri.cn/am846.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Vkc0GtkG/chinaplusradio.png" group-title="📻| Radio" radio="true",China Plus Radio
 http://sk.cri.cn/am1008.m3u8
@@ -974,13 +974,13 @@ http://maximum.hostingradio.ru/maximum128.mp3
 #EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/NCDtVhn.png" radio="true",Радио Sputnik International
 http://icecast-rian.cdnvideo.ru/voiceenghi
 #EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/9Sg7YQY.png" radio="true",Авторадио
-http://ic7.101.ru:8000/v3_1
+http://89.204.58.59:8000/ar_72_01
 #EXTINF:-1 group-title="📻| Radio" tvg-id="europa-plus-radio" tvg-logo="https://i.imgur.com/0E4jjSG.png" radio="true",Радио Европа Плюс
 http://ep128.hostingradio.ru:8030/ep128
 #EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.postimg.cc/WpxDQknF/Russkoe-radio.png" radio="true",Русское Радио
 http://rusradio.hostingradio.ru/rusradio128.mp3
 #EXTINF:-1 group-title="📻| Radio" tvg-id="radio-shanson" tvg-logo="https://i.imgur.com/lbqM3K2.png" radio="true",Радио Шансон
-http://chanson.hostingradio.ru:8041/chanson256.mp3
+http://89.204.58.59:8000/ch_72_01
 #EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/AsMjZ51.png" radio="true",Новое Радио
 http://icecast.newradio.cdnvideo.ru/newradio3
 #EXTINF:-1 tvg-id="retro-fm" group-title="📻| Radio" tvg-id="retro-fm" tvg-logo="https://i.imgur.com/r03g93Q.png" radio="true",Ретро FM
