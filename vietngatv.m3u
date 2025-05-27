@@ -957,6 +957,10 @@ http://rfimonde96k.ice.infomaniak.ch/rfimonde-96k.mp3
 https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBMw6PPL/Radio-Exterior.png" group-title="📻| Radio" radio=true,RNE Radio Exterior
 http://rtvelivestream.akamaized.net/rtvesec/rne/rne_re_main.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/NCDtVhn.png" radio="true",Sputnik International
+http://icecast-rian.cdnvideo.ru/voiceenghi
+#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/NCDtVhn.png" radio="true",Sputnik Türkçe
+http://icecast-rian.cdnvideo.ru/voicestm
 #EXTINF:-1 group-title="📻| Radio" tvg-id="vesti-fm" tvg-logo="https://i.imgur.com/v3Qejm1.png" radio="true",Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
 #EXTINF:-1 group-title="📻| Radio" tvg-id="radio-mayak" tvg-logo="https://i.imgur.com/1FtDGbZ.png" radio="true",Маяк
@@ -971,8 +975,6 @@ http://dfm.hostingradio.ru/dfm128.mp3
 http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/bgBOgNX.png" radio="true",Радио Maximum
 http://maximum.hostingradio.ru/maximum128.mp3
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/NCDtVhn.png" radio="true",Радио Sputnik International
-http://icecast-rian.cdnvideo.ru/voiceenghi
 #EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/9Sg7YQY.png" radio="true",Авторадио
 http://89.204.58.59:8000/ar_72_01
 #EXTINF:-1 group-title="📻| Radio" tvg-id="europa-plus-radio" tvg-logo="https://i.imgur.com/0E4jjSG.png" radio="true",Радио Европа Плюс
