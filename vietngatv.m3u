@@ -64,11 +64,11 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onvfamily" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 https://xem.TruyenHinh.Click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0 tvg-id="onkids" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON Kids
+#EXTINF:-1 tvg-id="onkids" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON Kids
 https://xem.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0 tvg-id="onlife" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
+#EXTINF:-1 tvg-id="onlife" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
 https://xem.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0 tvg-id="ongolf" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf
+#EXTINF:-1 tvg-id="ongolf" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf
 https://xem.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="💛| HTV" group-logo="https://i.imgur.com/vevFQnR.png" tvg-logo="https://i.imgur.com/4xkotkw.png",HTV1
@@ -300,9 +300,9 @@ http://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",HanoiTV2 | Đài Hà Nội
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/78fQx65.png",HiTV
+#EXTINF:-1 tvg-id="" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/78fQx65.png",HiTV
 https://xem.TruyenHinh.Click/CoBan/185.HiTV/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0 tvg-id="" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/DlZYnPf.png",YouTV
+#EXTINF:-1 tvg-id="" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/DlZYnPf.png",YouTV
 https://xem.TruyenHinh.Click/CoBan/31.YouTV/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="bacgiang" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/j9lbGel.png",BGTV HD | TH Bắc Giang
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8
