@@ -481,7 +481,7 @@ http://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 #EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
 http://45.143.108.110:2200/RT
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Documentary
-http://45.143.108.110:2200/RTDOC
+http://tv.streams.baikal-telecom.net:8080/RTD_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RTPInternacional.pt" group-title="🌏| Đối ngoại" tvg-logo="https://i.postimg.cc/xCGBmSBt/RTP-Internacional.png",RTP Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
@@ -813,6 +813,8 @@ http://31.148.48.15/Doktor/tracks-v1a1/mono.m3u8
 http://178.217.72.66:8080/Zdorovoe_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zagorodny" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/YGqO3Us.png",Загородный
 http://109.248.236.51/zagorodniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/RoYd5pz.png",Загородная жизнь
+http://185.57.68.33/40/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/NNmjD9Z.png",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="zoopark" tvg-logo="https://i.imgur.com/IO5jegK.png" group-title="🌿| Khám phá",ЗООПАРК
@@ -828,7 +830,7 @@ http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня ТВ
 http://109.248.236.51/kuhnya_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/uIiAdBv.png",Моя Планета
-http://109.248.236.51/moya_planeta/tracks-v1a1/mono.m3u8
+http://tv.streams.baikal-telecom.net:8080/Nauka20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="morskoy" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Sl8c9eB.png",Моя стихия
 http://109.200.130.123:7537/play/a03f
 #EXTINF:-1 tvg-id="muzhskoy" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/xyztpBf.png",Мужской
