@@ -365,7 +365,7 @@ https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/6vYWCD0.png",Cartoonito Asia
 https://cdn2.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại" tvg-id="CCTV4美洲" tvg-logo="https://i.imgur.com/XXBAJpA.png",CCTV-4 Asia
-http://sv.cvtv.xyz:81/c4?token=live
+http://edge2a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+
 http://49.0.64.96:8007/CCTV-5
 #EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14
