@@ -474,6 +474,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 https://xem.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/1nN4rEP.png",Rai Italia Asia
 http://49.0.64.96:8007/RAI_Asia
+#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/1nN4rEP.png",Rai Italia Asia HD
+http://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 #EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
 http://45.143.108.110:2200/RT
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Documentary
@@ -908,6 +910,8 @@ http://109.248.236.51/atameken/tracks-v1a1/mono.m3u8
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="caspian-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/QUu4Gv0.png",Caspian News
 http://sc.id-tv.kz/CaspianNews.m3u8
+#EXTINF:-1 tvg-id="cbc-az" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/wVT0dwO.png",CBC
+https://live20.bozztv.com/dvrfl05/gin-cbctvaz/index.m3u8
 #EXTINF:-1 tvg-id="kazakh-tv" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/MY9CjUH.png",Silk Way TV
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/KI1qZNc.png",Вместе-РФ
