@@ -115,11 +115,53 @@ http://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="sctv2hd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://i.imgur.com/z7Zyk9W.png",SCTV2 - TodayTV
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" group-logo="https://i.imgur.com/tNeV3JA.png" tvg-logo="https://i.imgur.com/UcMXcHF.png",SCTV1
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
+#EXTINF:-1 tvg-id="sctv2hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/z7Zyk9W.png",SCTV2 - TodayTV
 https://xem.TruyenHinh.Click/CoBan/sctv2hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/2oOVS42.png",SCTV6 - FIM 360
+#EXTINF:-1 tvg-id="sctv3hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/7LYilMt.png",SCTV3
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
+#EXTINF:-1 tvg-id="sctv4hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/jZBnIXW.png",SCTV4
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
+#EXTINF:-1 tvg-id="sctv5hd" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/FYLs4yu.png",SCTV5 - SCJ TV Shopping
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv5
+#EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/2oOVS42.png",SCTV6 - FIM 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/xbIUZYd.png",SCTV7
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv7
+#EXTINF:-1 tvg-id="sctv8hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/T8sGs4A.png",SCTV8 - VITV
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/F0a7p18.png",SCTV9
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
+#EXTINF:-1 tvg-id="sctv10hd" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/ms11bjD.png",SCTV10 - VTV HYUNDAI HOMESHOPPING
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv10
+#EXTINF:-1 tvg-id="sctv11hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/ZmFfy9o.png",SCTV11
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv11
+#EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/5pDFkH0.png",SCTV12
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv12
+#EXTINF:-1 tvg-id="sctv13hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/aoz1iDw.png",SCTV13
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv13
+#EXTINF:-1 tvg-id="sctv14hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/PcWk3xl.png",SCTV14 - Kênh Phim Việt
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv14
+#EXTINF:-1 tvg-id="sctv15hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/sg30e7I.png",SCTV15 - SSPORT2
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv15
+#EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/ldCYtvt.png",SCTV16
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
+#EXTINF:-1 tvg-id="sctv17hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/17lvbuq.png",SCTV17 - SSPORT
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv17
+#EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/FfUSlgI.png",SCTV18
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv18
+#EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/dKvkAtU.png",SCTV19 - Channel T
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
+#EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/7ABZhfZ.png",SCTV20
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
+#EXTINF:-1 tvg-id="sctv21hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/onPtlVa.png",SCTV21 - Việt Nam Ký ức
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
+#EXTINF:-1 tvg-id="sctv22hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/9652uFO.png",SCTV22 - SSPORT1
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv22
+#EXTINF:-1 tvg-id="sctvpthhd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV Phim tổng hợp
+https://freem3u.xyz/api/live/play.m3u8?tid=sctvpth
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/hGKz43E.png" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV | Cục Truyền thông CAND
 http://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -344,7 +386,7 @@ http://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN East Asia
+#EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN East Asia
 http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CBeebiesAsia.uk" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/gQWANtJ.png" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC Cbeebies Asia
 https://cdn2.skygo.mn/live/disk1/Cbeebies/HLS-FTA/Cbeebies.m3u8
@@ -356,7 +398,7 @@ https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLS-FTA/BBC_lifestyle.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="📈| Kinh tế" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg Asia
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLS-FTA/Bloomberg.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/VrfSOF4.png",Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/VrfSOF4.png",Box Hits
 https://xem.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="boxmovie1hd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 https://xem.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -509,9 +551,8 @@ https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZooMoo
 http://49.0.64.96:8007/Zoomoo
 
-#EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/QSVbW7r.png",Первый канал. Всемирная сеть
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s14/04.m3u8
+#EXTINF:-1 tvg-id="pervy-pl4" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/QSVbW7r.png",Первый канал
+http://109.200.130.123:7055/play/a01c
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/f54OT4e.png",РТР Планета Азия
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363/playlist.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ
@@ -763,6 +804,8 @@ http://109.248.236.51/mir_seriala/tracks-v1a1/mono.m3u8
 http://109.248.236.51/muzhskoe_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="indiyskoe-kino" tvg-logo="https://i.imgur.com/LL8GyCh.png",Индийское кино
 http://109.248.236.51/indiyskoe_kino/mono.m3u8
+#EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="sapfir" tvg-logo="https://i.imgur.com/NMOBvle.png",Сапфир
+http://109.200.130.123:7055/play/a00z
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/H70LxoZ.png",РОДНОЕ КИНО
 http://109.248.236.51/rodnoe_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/w0ZE9QJ.png",Русский Бестселлер
@@ -784,6 +827,8 @@ http://109.200.130.123:7537/play/a03j
 http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 tvg-id="rtg-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV
 http://31.148.48.15/RTG/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="terra-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZxUjCpF.png",TERRA
+http://109.200.130.123:7055/play/a01f
 #EXTINF:-1 tvg-id="the-explorers" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/RskJRMl.png",The Explorers
 http://sc.id-tv.kz/ElArna_34_35.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/EGIpLPu.png",viju Explore
