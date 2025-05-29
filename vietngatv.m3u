@@ -562,16 +562,16 @@ http://109.248.236.51/match/tracks-v1a1/mono.m3u8
 http://178.217.72.66:8080/Match_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/VJuvM2K.png",НТВ Мир
 http://109.248.236.51/ntv_mir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="5kanal-ru" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/Q2Q7Mgr.png",Пятый канал
-http://178.217.72.66:8080/5_Kanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl2" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/Q2Q7Mgr.png",Пятый канал
+http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="kultura-pl4" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/tpqsFzm.png",Россия 24 International
 http://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04/playlist.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/6X3rvou.png",Карусель International
 https://cdn4.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
-#EXTINF:-1 tvg-id="otr" group-title="🌐| Thiết yếu" tvg-logo="https://i.postimg.cc/SKvcc9jb/OTR.png",Общественное Телевидение России
-http://178.217.72.66:8080/OTR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="otr-pl2" group-title="🌐| Thiết yếu" tvg-logo="https://i.postimg.cc/SKvcc9jb/OTR.png",Общественное Телевидение России
+http://94.230.128.107:8080/OTP/index.m3u8
 #EXTINF:-1 tvg-id="tvci" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/ostQQO7.png",ТВ Центр International
 https://cdn2.skygo.mn/live/disk1/TV_center/HLS-FTA/TV_center.m3u8
 #EXTINF:-1 tvg-id="rentv-int" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/dad6X9r.png",Рен ТВ International
@@ -586,10 +586,10 @@ https://cdn4.skygo.mn/live/disk1/Domashni/HLS-FTA/Domashni.m3u8
 https://cdn2.skygo.mn/live/disk1/TV3Russia/HLS-FTA/TV3Russia.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница! International
 https://cdn4.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
-#EXTINF:-1 tvg-id="zvezda" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/4PAcpfM.png",Телеканал Звезда
-http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-id="mir-kz" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/CrFWXTD.png",МИР
-http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl2" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/4PAcpfM.png",Телеканал Звезда
+http://94.230.128.107:8080/Zvezda/index.m3u8
+#EXTINF:-1 tvg-id="mir-pl2" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/CrFWXTD.png",МИР
+http://94.230.128.107:8080/MIR/index.m3u8
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ International
 https://cdn2.skygo.mn/live/disk1/THT/HLS-FTA/THT.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ-ТВ
