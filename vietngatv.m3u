@@ -548,6 +548,8 @@ http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="womanhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/ePYXLBQ.png",Woman
 https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="YTN.kr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/SSQxzsd.png",YTN
+https://www.youtube.com/watch?v=FJfwehhzIhw
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZooMoo
 http://49.0.64.96:8007/Zoomoo
 
