@@ -397,7 +397,7 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://xem.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="boxmovie1hd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 https://xem.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/gQWANtJ.png" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network Asia (Russian)
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/gQWANtJ.png" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network Asia
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="CGNTVSouthKorea.kr" tvg-logo="https://i.imgur.com/zwZASOB.png" group-title="🎭| Văn hóa",CGN TV
 https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
@@ -448,6 +448,8 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 tvg-id="food-network" tvg-logo="https://i.imgur.com/6l7us9Y.png" group-title="🌿| Khám phá",Food Network SEA (Russian)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:-1 tvg-id="fox-news-us" group-title="📰| Tin tức" tvg-logo="https://i.postimg.cc/SKgVLPqd/Fox-News-Channel.png",FOX NEWS Channel
+http://49.0.64.96:8007/FOXNEWS
 #EXTINF:-1 tvg-id="france24-en" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/B76eSg2.png",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="france24-fr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/u8N6uoj.png",France 24 French
@@ -523,7 +525,7 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 http://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="🌏| Đối ngoại",TVE Internacional Asia-Oceania
 http://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
-#EXTINF:-1 tvg-id="tvN.kr" group-title="🤣| Giải trí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",tvN
+#EXTINF:-1 tvg-id="tvN.kr" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/RCKK4Y8Y/tvN.png",tvN
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/B9AVT2i.png",Warner Bros TV
 http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
