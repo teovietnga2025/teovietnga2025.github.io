@@ -43,10 +43,14 @@ http://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 https://xem.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onphimviet" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
 https://xem.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="onsports" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports
+https://freem3u.xyz/api/live/play.m3u8?oid=onsports
 #EXTINF:-1 tvg-id="onmovies" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
 https://xem.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onechannel" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel
 https://xem.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="onsportsplus" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
 #EXTINF:-1 tvg-id="ono2tv" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
 https://xem.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onbibi" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
@@ -62,8 +66,12 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh.m3u8
 http://live.fptplay53.net/fnxsd1/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="onmusic" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
 https://xem.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="onfootball" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football
+https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
 #EXTINF:-1 tvg-id="ontrending" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 https://xem.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="onsportsnews" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
 #EXTINF:-1 tvg-id="onviedramas" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://xem.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onvfamily" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
@@ -166,6 +174,17 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv22
 #EXTINF:-1 tvg-id="sctvpthhd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV Phim tổng hợp
 https://freem3u.xyz/api/live/play.m3u8?tid=sctvpth
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" group-logo="https://i.postimg.cc/1zZ1GtCZ/K.png" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine
+https://freem3u.xyz/api/live/play.m3u8?tid=kcine
+#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action
+https://freem3u.xyz/api/live/play.m3u8?tid=kaction
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1
+https://freem3u.xyz/api/live/play.m3u8?tid=ksport1
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2
+https://freem3u.xyz/api/live/play.m3u8?tid=ksport2
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids
+https://freem3u.xyz/api/live/play.m3u8?tid=kkids
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/hGKz43E.png" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV | Cục Truyền thông CAND
 http://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
