@@ -1090,6 +1090,14 @@ https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
 http://media.kythuatvov.vn:7025/
 #EXTINF:-1 tvg-id="Radio.vovGTMekong" group-title="📻| Radio" tvg-logo="https://i.imgur.com/2tMmok6.png" radio="true",VOV Giao Thông Mê Kông
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://i.postimg.cc/j2GxH64M/956.png",VOH FM 95.6Mhz
+https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://i.postimg.cc/YjK7GrtV/610.png",VOH AM 610Khz
+https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://i.postimg.cc/9QXmGfd5/999.png",VOH FM 99.9Mhz
+https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://i.postimg.cc/SNgFbfM3/877.png",VOH FM 87.7Mhz
+https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.postimg.cc/52HfgV7g/BBC-World-Service.png" radio="true",BBC World Service English East Asia
 http://as-hls-ww-live.akamaized.net/pool_31623735/live/ww/bbc_world_service_east_asia/bbc_world_service_east_asia.isml/bbc_world_service_east_asia-audio%3d320000.norewind.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MTn3QGG7/cgtn-radio-cn.png" group-title="📻| Radio" radio="true",CGTN Radio
