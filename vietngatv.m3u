@@ -508,7 +508,7 @@ http://49.0.64.96:8007/RAI_Asia
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/1nN4rEP.png",Rai Italia Asia HD
 http://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 #EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
-http://45.143.108.110:2200/RT
+http://rt-glb.rttv.com/live/rtnews/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Documentary
 http://tv.streams.baikal-telecom.net:8080/RTD_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RTPInternacional.pt" group-title="🌏| Đối ngoại" tvg-logo="https://i.postimg.cc/xCGBmSBt/RTP-Internacional.png",RTP Internacional
