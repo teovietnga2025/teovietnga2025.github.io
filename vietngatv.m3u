@@ -627,7 +627,7 @@ http://tv.streams.baikal-telecom.net:8080/RBK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rbk" group-title="📈| Kinh tế" tvg-logo="https://i.imgur.com/CwhmJby.png",РБК HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="izvestia" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/o4Julue.jpg",Телеканал Известия
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+https://live20.bozztv.com/dvrfl05/gin-izrutv/index.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/dj9c8Yd.png",МИР 24
 http://tv.streams.baikal-telecom.net:8080/Mir24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/dj9c8Yd.png",МИР 24 HD
