@@ -433,9 +433,9 @@ https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGN
 http://sv.cvtv.xyz:81/c4?token=live
 #EXTINF:-1 tvg-id="CCTV5+" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+
 http://49.0.64.96:8007/CCTV-5
-#EXTINF:-1 tvg-id="CCTV14" group-title="🎧| Âm nhạc" group-logo="https://i.imgur.com/BXB2IkB.png" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV14
+#EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV14
 https://cdn4.skygo.mn/live/disk1/CCTV-14/HLSv3-FTA/CCTV-14.m3u8
-#EXTINF:-1 tvg-id="CCTV15" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/CCV0eRG.png",CCTV15
+#EXTINF:-1 tvg-id="CCTV15" group-title="🎧| Âm nhạc" group-logo="https://i.imgur.com/BXB2IkB.png" tvg-logo="https://i.imgur.com/CCV0eRG.png",CCTV15
 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/MyiA92q.png",Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
