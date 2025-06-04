@@ -1076,7 +1076,7 @@ http://s1.tv-nano.com/Luxury_rec/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="womens-magazine" tvg-logo="https://i.postimg.cc/BQ329sVQ/Women2829.png" group-title="🤣| Giải trí",Women's Magazine
 http://109.200.130.123:7537/play/a03q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vw3LFLX.png" tvg-id="kvn-tv" group-title="🤣| Giải trí",КВН ТВ
-http://31.148.48.15/KVN_TV/index.m3u8
+http://31.148.48.15/KVN_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="novoe-televidenie" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/mmKWrWs.png",Новое телевидение
 http://sc.id-tv.kz/NovoeTVHD.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="🤣| Giải trí",НОСТАЛЬГИЯ
