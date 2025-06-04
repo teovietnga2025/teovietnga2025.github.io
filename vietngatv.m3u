@@ -427,7 +427,7 @@ http://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN East Asia
+#EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN East Asia
 http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cbeebies" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/gQWANtJ.png" tvg-logo="https://i.imgur.com/0t99xJZ.png" group-title="🌈| Hoạt hình",BBC Cbeebies Asia
 https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
