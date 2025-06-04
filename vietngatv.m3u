@@ -826,6 +826,10 @@ http://178.124.179.122:8088/Malish/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="detsky" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/kSJZjDL.png",Уникум
 http://31.148.48.15/Detskiy/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="sony-turbo" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/Q4A6ci4.png",.black
+http://141.95.55.143/CH4615/index.m3u8
+#EXTINF:-1 tvg-id="sony-tv" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/GET9Qut.png",.red
+http://141.95.55.143/CH147/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/nSSUHcg.png",.Sci-Fi
 http://178.124.179.122:8088/Sci-Fi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="amedia1" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/2pAHdAi.png",AMEDIA 1
@@ -1062,6 +1066,8 @@ https://tvcdn01.esilnet.kz/tv/24kz/index.m3u8
 #EXTINF:-1 tvg-id="armenia-tv" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/UnoI5uM.png",Armenia TV
 http://109.200.130.123:7537/play/a035
 #EXTINF:-1 tvg-id="atameken-business" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/CfRvm8i.png",Atameken Business
+http://sc.id-tv.kz/Atameken.m3u8
+#EXTINF:-1 tvg-id="atameken-business" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/CfRvm8i.png",Atameken Business HD
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="caspian-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/QUu4Gv0.png",Caspian News
 http://sc.id-tv.kz/CaspianNews.m3u8
