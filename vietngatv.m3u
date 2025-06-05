@@ -484,6 +484,8 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/V8AUJP6.png",Da Vinci Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/pfTK4SU.png",Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="dmax-tr" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/vHmt91V.png",DMAX Southeast Asia (Turk)
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel SEA
@@ -610,8 +612,6 @@ http://103.120.172.74:1060
 http://103.120.172.74:5500
 #EXTINF:-1 tvg-id="StarSports2.in" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/5En7pOI.png",Star Sports 2
 http://103.120.172.74:4200
-#EXTINF:-1 tvg-id="SkyNewsInternational.uk" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/jP0rB8j.png",Sky News International
-https://live20.bozztv.com/dvrfl05/gin-skynewsinter/index.m3u8
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/n93KZnX.png" group-title="🌏| Đối ngoại",Phoenix Chinese Channel
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="PhoenixHongKongChannel.hk" tvg-logo="https://i.imgur.com/E0DQnRo.png" group-title="🌏| Đối ngoại",Phoenix Hong Kong Channel
