@@ -435,8 +435,8 @@ https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://i.imgur.com/9mzJJ3y.png" group-title="🌿| Khám phá",BBC Livestyle Asia
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News Asia-Pacific
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="📈| Kinh tế" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/VrfSOF4.png",Box Hits
@@ -796,6 +796,8 @@ http://ott-cdn.ucom.am/s35/04.m3u8
 http://31.148.48.15/O2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png",Russian MusicBox
 http://162.19.205.146/10718/tracks-v1a1/mono.m3u8?token=F114E24B2461
+#EXTINF:-1 tvg-id="la-minor" group-title="🎧| Âm nhạc" tvg-logo="https://i.postimg.cc/Gty3mRcF/3-F3-F3-F-Live-29.png",Музыка Live
+http://31.148.48.15/La-Minor_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/U0vKj3P.png",Музыка Первого
 https://cdn4.skygo.mn/live/disk1/Muzika/HLSv3-FTA/Muzika.m3u8
 #EXTINF:-1 tvg-id="radio-strana-fm-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/WsPlKJJ.png",Страна FM ТВ
@@ -955,7 +957,7 @@ http://31.148.48.15/Sochi_HD/tracks-v1a1/mono.m3u8
 http://45.143.108.110:2200/TV21
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NfnAiTR.png" tvg-id="365-dnej" group-title="🌿| Khám phá",365 дней ТВ
-http://178.219.160.169/54/tracks-v1a1/mono.m3u8
+http://31.148.48.15/365_dney/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="big-planet" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/wyuqWTR.png",Big Planet
 http://109.200.130.123:7537/play/a03j
 #EXTINF:-1 tvg-id="eda-hd" tvg-logo="https://i.imgur.com/gxCYAwH.png" group-title="🌿| Khám phá",FoodTime
