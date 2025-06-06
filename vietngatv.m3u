@@ -38,17 +38,9 @@ http://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://14.177.59.77:8889/Vieon.php?id=vtvcab1
-#EXTINF:-1 tvg-id="onsports" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports
-https://freem3u.xyz/api/live/play.m3u8?oid=onsports
-#EXTINF:-1 tvg-id="onsportsplus" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+
-https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
 #EXTINF:-1 group-title="🛒| Mua sắm" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/fnxsd1/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="onfootball" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football
-https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
-#EXTINF:-1 tvg-id="onsportsnews" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News
-https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
 #EXTINF:-1 tvg-id="onviedramas" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://14.177.59.77:8889/Vieon.php?id=vtvcab19
@@ -97,64 +89,9 @@ http://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" group-logo="https://i.imgur.com/tNeV3JA.png" tvg-logo="https://i.imgur.com/UcMXcHF.png",SCTV1
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
-#EXTINF:-1 tvg-id="sctv2hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/iMDjKF9.png",SCTV2 - TodayTV
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv2
-#EXTINF:-1 tvg-id="sctv3hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/7LYilMt.png",SCTV3
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
-#EXTINF:-1 tvg-id="sctv4hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/jZBnIXW.png",SCTV4
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
-#EXTINF:-1 tvg-id="sctv5hd" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/FYLs4yu.png",SCTV5 - SCJ TV Shopping
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv5
-#EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/2oOVS42.png",SCTV6 - FIM 360
+#EXTINF:-1 tvg-id="sctv6hd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/2oOVS42.png",SCTV6 - FIM 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="sctv7hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/xbIUZYd.png",SCTV7
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv7
-#EXTINF:-1 tvg-id="sctv8hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/T8sGs4A.png",SCTV8 - VITV
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv8
-#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/F0a7p18.png",SCTV9
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
-#EXTINF:-1 tvg-id="sctv10hd" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/ms11bjD.png",SCTV10 - VTV HYUNDAI HOMESHOPPING
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv10
-#EXTINF:-1 tvg-id="sctv11hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/ZmFfy9o.png",SCTV11
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv11
-#EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/5pDFkH0.png",SCTV12
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv12
-#EXTINF:-1 tvg-id="sctv13hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/aoz1iDw.png",SCTV13
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv13
-#EXTINF:-1 tvg-id="sctv14hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/PcWk3xl.png",SCTV14 - Kênh Phim Việt
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv14
-#EXTINF:-1 tvg-id="sctv15hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/sg30e7I.png",SCTV15 - SSPORT2
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv15
-#EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/ldCYtvt.png",SCTV16
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
-#EXTINF:-1 tvg-id="sctv17hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/17lvbuq.png",SCTV17 - SSPORT
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv17
-#EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/FfUSlgI.png",SCTV18
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv18
-#EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/dKvkAtU.png",SCTV19 - Channel T
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
-#EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/7ABZhfZ.png",SCTV20
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
-#EXTINF:-1 tvg-id="sctv21hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/onPtlVa.png",SCTV21 - Việt Nam Ký ức
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
-#EXTINF:-1 tvg-id="sctv22hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/9652uFO.png",SCTV22 - SSPORT1
-https://freem3u.xyz/api/live/play.m3u8?tid=sctv22
-#EXTINF:-1 tvg-id="sctvpthhd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV Phim tổng hợp
-https://freem3u.xyz/api/live/play.m3u8?tid=sctvpth
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" group-logo="https://i.postimg.cc/1zZ1GtCZ/K.png" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine
-https://freem3u.xyz/api/live/play.m3u8?tid=kcine
-#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action
-https://freem3u.xyz/api/live/play.m3u8?tid=kaction
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1
-https://freem3u.xyz/api/live/play.m3u8?tid=ksport1
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2
-https://freem3u.xyz/api/live/play.m3u8?tid=ksport2
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids
-https://freem3u.xyz/api/live/play.m3u8?tid=kkids
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/hGKz43E.png" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV | Cục Truyền thông CAND
 http://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
