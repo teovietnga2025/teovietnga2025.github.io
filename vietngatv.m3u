@@ -1071,7 +1071,7 @@ https://stream-cdn.vov.vn/live/vov24_7-audio_only.m3u8
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio.vovGTHCM" group-title="📻| Radio" tvg-logo="https://i.imgur.com/Wu8zN9H.png" radio="true",VOV Giao Thông TP.HCM
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="📻| Radio" tvg-logo="https://i.imgur.com/Wu8zN9H.png" radio="true",VOV Giao Thông Duyên Hải
+#EXTINF:-1 tvg-id="" group-title="📻| Radio" tvg-logo="https://i.postimg.cc/Nff8JKhP/VOV-Giao-th-ng-Duy-n-h-i.png" radio="true",VOV Giao Thông Duyên Hải
 http://media.kythuatvov.vn:7025/
 #EXTINF:-1 tvg-id="Radio.vovGTMekong" group-title="📻| Radio" tvg-logo="https://i.imgur.com/2tMmok6.png" radio="true",VOV Giao Thông Mê Kông
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
