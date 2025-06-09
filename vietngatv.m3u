@@ -966,8 +966,6 @@ http://45.143.108.110:2200/istoria
 https://cdn4.skygo.mn/live/disk1/Poehali/HLSv3-FTA/Poehali.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/qQ6pPPQ.png",Приключения
 http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tayna" group-title="🌿| Khám phá" tvg-logo="https://iptvx.one/picons/tayna.png",Тайна ТВ
-http://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tri-angela" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/4fhBbam.png",Три Ангела
 http://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1 tvg-id="teleputeshestvia" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/eXJm1n3.png",Телепутешествия
