@@ -365,6 +365,8 @@ http://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="ABPNews.in" group-title="📰| Tin tức" tvg-logo="https://i.postimg.cc/6QyGxBQS/ABPNews.jpg",ABP News
+https://amg01448-samsungin-abpnews-samsungin-ad-ie.amagi.tv/playlist/amg01448-samsungin-abpnews-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN East Asia
 http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0S840CN/BTV-News-Logo.png" group-title="📰| Tin tức",BTV News
@@ -411,6 +413,8 @@ https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b2500000.m3u8
 http://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Asia Pacific
 http://125hvt.ddns.net:21585/cnn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Colors.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/M8uCJ0D.png",Colors
+http://103.120.172.74:1150
 #EXTINF:-1 tvg-id="ColorsBangla.in" tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="🤣| Giải trí",Colors Bangla
 http://38.96.178.201/live/ColorsBangla/index.m3u8
 #EXTINF:-1 tvg-id="cgtn" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Q3gLfHw.png",CGTN
@@ -587,7 +591,7 @@ https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC Southeast Asia
 http://125hvt.ddns.net:21585/tlc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8KQirah.png",Travelxp
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorldHD" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/XLaZUzJ.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5Monde ASIE
@@ -608,6 +612,8 @@ http://210.92.207.38:40001
 https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/0jHfbtGS/1280px-Zee-Cinema-2025-svg.png",Zee Cinema
 http://103.120.172.74:4000
+#EXTINF:-1 tvg-id="ZeeMarathi.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/C53jkLZd/1280px-Zee-Marathi-2025-svg.png",Zee Marathi
+http://103.120.172.74:1040
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://i.postimg.cc/NGkXjPG2/1280px-Zee-News-2025-svg.png" group-title="📰| Tin tức",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZooMoo
@@ -1050,8 +1056,6 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1/playlist.m3u8
 #EXTINF:-1 tvg-id="ktk-kz" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/BurrNTo.png",КТК
 http://sc.id-tv.kz/KTK_34_35.m3u8
-#EXTINF:-1 tvg-id="pervy-info-by" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/eIiXRAI.png",Первый Информационный
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="xabar" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/xG3HxId.png",Хабар
 http://sc.id-tv.kz/Khabar.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/gCmCRfe.png",ЛДПР ТВ
