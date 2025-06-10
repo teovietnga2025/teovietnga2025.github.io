@@ -367,6 +367,10 @@ http://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN East Asia
 http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0S840CN/BTV-News-Logo.png" group-title="📰| Tin tức",BTV News
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
+#EXTINF:-1 group-title="🎧| Âm nhạc" group-logo="https://i.imgur.com/BXB2IkB.png" tvg-logo="https://i.imgur.com/KSxPLJA.png",B4U Music
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
 #EXTINF:-1 tvg-id="cbeebies" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/gQWANtJ.png" tvg-logo="https://i.imgur.com/0t99xJZ.png" group-title="🌈| Hoạt hình",BBC Cbeebies Asia
 https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
 #EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="🌿| Khám phá",BBC Earth Asia
@@ -395,7 +399,7 @@ http://sv.cvtv.xyz:81/c4?token=live
 http://49.0.64.96:8007/CCTV-5
 #EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV14
 https://cdn4.skygo.mn/live/disk1/CCTV-14/HLSv3-FTA/CCTV-14.m3u8
-#EXTINF:-1 tvg-id="CCTV15" group-title="🎧| Âm nhạc" group-logo="https://i.imgur.com/BXB2IkB.png" tvg-logo="https://i.imgur.com/CCV0eRG.png",CCTV15
+#EXTINF:-1 tvg-id="CCTV15" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/CCV0eRG.png",CCTV15
 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/MyiA92q.png",Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
@@ -407,6 +411,8 @@ https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b2500000.m3u8
 http://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Asia Pacific
 http://125hvt.ddns.net:21585/cnn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="🤣| Giải trí",Colors Bangla
+http://38.96.178.201/live/ColorsBangla/index.m3u8
 #EXTINF:-1 tvg-id="cgtn" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Q3gLfHw.png",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
@@ -501,6 +507,8 @@ http://31.148.48.15/Nickelodeon/index.m3u8
 http://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-id="NTV.bd" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/l75bDTx.png",NTV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Kh4MWaY.png",Outdoor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
@@ -540,6 +548,8 @@ https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTINF:-1 tvg-id="StarBharat.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Q8ajPij.png",Star Bharat
 http://103.120.172.74:5000
+#EXTINF:-1 tvg-id="StarJalsha.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/IlufzR5.png",Star Jalsha
+http://38.96.178.201/live/STARJALSHA/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/xWxNy3L.png",Star Plus
 http://103.120.172.74:5200
 #EXTINF:-1 tvg-id="StarPravah.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/ZT0u7AK.png",Star Pravah
@@ -652,7 +662,7 @@ http://178.217.72.66:8080/2x2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="super" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/nsk8PpB.png",Суббота
 http://178.217.72.66:8080/super/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts-love" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/YBVZoDd.png",СТС Love
-http://178.219.160.169/85/tracks-v1a1/mono.m3u8
+http://194.143.148.28:8080/CTC_LOVE/index.m3u8
 #EXTINF:-1 tvg-id="yu" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/KDZvt0Q.png",Телеканал Ю
 http://tv.streams.baikal-telecom.net:8080/U/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="che" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/ZOcDGpB.png",Че
