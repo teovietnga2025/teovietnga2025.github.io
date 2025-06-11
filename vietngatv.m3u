@@ -370,7 +370,7 @@ https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b2500000.m3u8
 https://amg01448-samsungin-abpnews-samsungin-ad-ie.amagi.tv/playlist/amg01448-samsungin-abpnews-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN East Asia
 http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0S840CN/BTV-News-Logo.png" group-title="📰| Tin tức",BTV News
+#EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.postimg.cc/g0S840CN/BTV-News-Logo.png" group-title="📰| Tin tức",BTV News
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
 #EXTINF:-1 group-title="🎧| Âm nhạc" group-logo="https://i.imgur.com/BXB2IkB.png" tvg-logo="https://i.imgur.com/KSxPLJA.png",B4U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
@@ -505,6 +505,8 @@ https://xem.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="myzen-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/fIi8o0C.png",myZen.tv
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.bd" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/l75bDTx.png",National Television (NTV)
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon Asia (English/Russian)
 http://31.148.48.15/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan
@@ -512,8 +514,6 @@ http://31.148.48.15/Nickelodeon/index.m3u8
 http://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-id="NTV.bd" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/l75bDTx.png",NTV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Kh4MWaY.png",Outdoor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
