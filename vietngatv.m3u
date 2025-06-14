@@ -721,6 +721,8 @@ http://gtrkomsk-live.cdnvideo.ru/gtrkomsk/gtrkomsk.smil/playlist.m3u8
 http://sc.id-tv.kz/Astana.m3u8
 #EXTINF:-1 tvg-id="maydan" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/C8CCjZK.png",Maidan TV
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="volga" tvg-logo="https://i.postimg.cc/QCtcwxF9/3-F3-F282-C-3-F3-F3-F-3-F3-F29.png" group-title="🇷🇺| Kênh khu vực",Волга
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://i.imgur.com/GTXkAUu.png" group-title="🇷🇺| Kênh khu vực",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="katun-24" tvg-logo="https://i.imgur.com/mr2Peqj.png" group-title="🇷🇺| Kênh khu vực",Катунь 24
