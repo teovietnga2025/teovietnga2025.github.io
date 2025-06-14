@@ -902,7 +902,7 @@ http://178.219.160.169/115/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="muzhskoe-kino" tvg-logo="https://i.imgur.com/8RN3tQC.png",Мужское кино
 http://178.219.160.169/82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="sapfir" tvg-logo="https://i.imgur.com/NMOBvle.png",Сапфир
-http://109.200.130.123:7055/play/a00z
+http://mfe02.cliptv.az/dash/Fox_Russia_SDqwqwqw321.ism/playlist.mpd
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/H70LxoZ.png",РОДНОЕ КИНО
 http://31.148.48.15/Rodnoe_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/w0ZE9QJ.png",Русский Бестселлер
