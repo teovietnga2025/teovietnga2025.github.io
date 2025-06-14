@@ -344,6 +344,10 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="yenbai" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/6tey10m.png",YTV HD | TH Báo Yên Bái
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
+#EXTINF:-1 tvg-id="AndTV.in" tvg-logo="https://i.postimg.cc/SKJDpbWh/1280px-TV-2025-svg.png" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png",&TV
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Andpictures.in" tvg-logo="https://i.postimg.cc/kGWWprwC/1280px-Pictures-2025-svg.png" group-title="🎬| Phim truyện",&pictures
+https://live.drmlive-02.workers.dev/zee/0-9-tvpictureshd.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Đối ngoại" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/qQ33TVM.png",ABC Australia
 http://49.0.64.96:8007/ABC
 #EXTINF:-1 tvg-id="AlJazeera.qa" group-title="📰| Tin tức" group-logo="https://i.imgur.com/lTODs0q.png" tvg-logo="https://i.imgur.com/BB93NQP.png",Aljazeera Arabic
@@ -352,8 +356,6 @@ https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://i.imgur.com/BJVAUWg.png",Animal Planet SEA
 https://cdn4.skygo.mn/live/disk1/AnimalPlanet/HLSv3-FTA/AnimalPlanet.m3u8
-#EXTINF:-1 tvg-id="AndTV.in" tvg-logo="https://i.postimg.cc/SKJDpbWh/1280px-TV-2025-svg.png" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png",&TV
-https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTVFarEast.in" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV Far East
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/pux6WN8.png",Asian Food Network
@@ -368,7 +370,9 @@ https://amg01448-samsungin-abpnews-samsungin-ad-ie.amagi.tv/playlist/amg01448-sa
 http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.postimg.cc/g0S840CN/BTV-News-Logo.png" group-title="📰| Tin tức",BTV News
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
-#EXTINF:-1 group-title="🎧| Âm nhạc" group-logo="https://i.imgur.com/BXB2IkB.png" tvg-logo="https://i.imgur.com/KSxPLJA.png",B4U Music
+#EXTINF:-1 tvg-id="B4UMovies.in" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/M9kMFJl.png",B4U Movies
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in" group-title="🎧| Âm nhạc" group-logo="https://i.imgur.com/BXB2IkB.png" tvg-logo="https://i.imgur.com/KSxPLJA.png",B4U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
 #EXTINF:-1 tvg-id="cbeebies" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/gQWANtJ.png" tvg-logo="https://i.imgur.com/0t99xJZ.png" group-title="🌈| Hoạt hình",BBC Cbeebies Asia
 https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
@@ -549,10 +553,12 @@ https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTINF:-1 tvg-id="StarBharat.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Q8ajPij.png",Star Bharat
 http://103.120.172.74:5000
+#EXTINF:-1 tvg-id="StarGold.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/xC460sj.png",Star Gold
+http://38.96.178.201/live/StarGold/index.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/IlufzR5.png",Star Jalsha
 http://38.96.178.201/live/STARJALSHA/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/xWxNy3L.png",Star Plus
-http://103.120.172.74:5200
+http://38.96.178.201/live/StarPlus/index.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/ZT0u7AK.png",Star Pravah
 http://103.120.172.74:1060
 #EXTINF:-1 tvg-id="StarSports1.in" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/E5jjKHI.png",Star Sports 1
@@ -606,13 +612,27 @@ https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="YTN.kr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/SSQxzsd.png",YTN
 http://210.92.207.38:40001
 #EXTINF:-1 tvg-id="ZeeBangla.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/6pK0TGnY/Zbangla-logo-2025.png",Zee Bangla
-https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+https://live.drmlive-02.workers.dev/zee/0-9-9z5383484.m3u8
+#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/pXTCrK5D/1280px-Zee-Bangla-Cinema-2025-svg.png",Zee Bangla Cinema
+https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/0jHfbtGS/1280px-Zee-Cinema-2025-svg.png",Zee Cinema
-http://103.120.172.74:4000
+https://live.drmlive-02.workers.dev/zee/0-9-zeecinema.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://i.postimg.cc/kG7YX5kD/1280px-Zee-Cinemalu-2025-svg.png" group-title="🎬| Phim truyện",Zee Cinemalu
+https://live.drmlive-02.workers.dev/zee/0-9-9z5383488.m3u8
+#EXTINF:-1 tvg-id="ZeeKannada.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/RCdYFcGR/1280px-Zee-Kannada-2025-svg.png",Zee Kannada
+https://live.drmlive-02.workers.dev/zee/0-9-9z5383466.m3u8
 #EXTINF:-1 tvg-id="ZeeMarathi.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/C53jkLZd/1280px-Zee-Marathi-2025-svg.png",Zee Marathi
-http://103.120.172.74:1040
+https://live.drmlive-02.workers.dev/zee/0-9-zeemarathi.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/WbRxx2WR/1280px-Zee-Tamil-2025-svg.png",Zee Tamil
+https://live.drmlive-02.workers.dev/zee/0-9-zeetamil.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://i.postimg.cc/NGkXjPG2/1280px-Zee-News-2025-svg.png" group-title="📰| Tin tức",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-id="ZeeThirai.in" tvg-logo="https://i.postimg.cc/NMHB7KnF/Zee-Thirai-2025.png" group-title="🎬| Phim truyện",Zee Thirai
+https://live.drmlive-02.workers.dev/zee/224.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/fyfB0hxy/1280px-Zee-TV-2025-svg.png",Zee TV English
+http://38.96.178.201/live/ZEETV/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/fyfB0hxy/1280px-Zee-TV-2025-svg.png",Zee TV Hindi
+https://live.drmlive-02.workers.dev/zee/0-9-zeetvhd.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZooMoo
 https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 
@@ -740,8 +760,6 @@ http://sc.id-tv.kz/HitTV.m3u8
 http://ott-cdn.ucom.am/s35/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CM6z7fA.png" tvg-id="o2tv" group-title="🎧| Âm nhạc",о2тв
 http://31.148.48.15/O2_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="russian-musicbox" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png",Russian MusicBox
-http://162.19.205.146/10718/tracks-v1a1/mono.m3u8?token=F114E24B2461
 #EXTINF:-1 tvg-id="la-minor" group-title="🎧| Âm nhạc" tvg-logo="https://i.postimg.cc/Gty3mRcF/3-F3-F3-F-Live-29.png",Музыка Live
 http://31.148.48.15/La-Minor_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/U0vKj3P.png",Музыка Первого
