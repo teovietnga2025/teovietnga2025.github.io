@@ -362,7 +362,7 @@ https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="ABPNews.in" group-title="📰| Tin tức" tvg-logo="https://i.postimg.cc/6QyGxBQS/ABPNews.jpg",ABP News
+#EXTINF:-1 tvg-id="ABPNews.in" group-title="📰| Tin tức" tvg-logo="https://i.postimg.cc/6QyGxBQS/ABPNews.jpg",ABP News India
 https://amg01448-samsungin-abpnews-samsungin-ad-ie.amagi.tv/playlist/amg01448-samsungin-abpnews-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN East Asia
 http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
@@ -795,6 +795,8 @@ http://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTINF:-1 tvg-id="solnce" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/rec9akk.png",Солнце
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:-1 tvg-id="smaylik-tv" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/CBj8XCT.png",Смайлик ТВ
+http://92.53.64.197:5050/smaylik_tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/o9kLpAL.png",СТС Kids
 http://213.91.178.133:8000/play/a07g
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/o9kLpAL.png",СТС Kids HD
@@ -841,9 +843,9 @@ http://178.219.160.169/107/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vremia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/jZlj3ga.png",Время
 https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.mpd
 #EXTINF:-1 tvg-id="domkino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/zbkhImD.png",Дом Кино
-https://streaming.televizor-24-tochka.ru/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://cdn4.skygo.mn/live/disk1/DomPremium/HLSv3-FTA/DomPremium.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/rJpQtvK.png",Дом Кино Премиум
-http://31.148.48.15/Dom_Kino_Premium_HD/tracks-v1a1/mono.m3u8
+http://92.53.64.197:5050/dom_kino_premium_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="🎬| Phim truyện",Дорама
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s95/04.m3u8
@@ -912,8 +914,6 @@ http://31.148.48.15/RTG/tracks-v1a1/mono.m3u8
 http://tv.streams.baikal-telecom.net:8080/RTG_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rtg-int" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZpUNou4.png",RTG Int.
 http://213.91.178.133:8000/play/a0bw
-#EXTINF:-1 tvg-id="terra-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZxUjCpF.png",TERRA
-http://109.200.130.123:7055/play/a01f
 #EXTINF:-1 tvg-id="sovsek" group-title="🌿| Khám phá" tvg-logo="https://iptvx.one/picons/sovsek.png",Top Secret
 #EXTVLCOPT:http-referrer=https://sovsekretno.tv/
 http://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
