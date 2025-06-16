@@ -364,8 +364,10 @@ https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="ABCNews.au" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/BrW7gk8.png",ABC News
+https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in" group-title="📰| Tin tức" tvg-logo="https://i.postimg.cc/6QyGxBQS/ABPNews.jpg",ABP News India
-https://amg01448-samsungin-abpnews-samsungin-ad-ie.amagi.tv/playlist/amg01448-samsungin-abpnews-samsungin/playlist.m3u8
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN East Asia
 http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.postimg.cc/g0S840CN/BTV-News-Logo.png" group-title="📰| Tin tức",BTV News
@@ -404,8 +406,6 @@ http://49.0.64.96:8007/CCTV-5
 https://cdn4.skygo.mn/live/disk1/CCTV-14/HLSv3-FTA/CCTV-14.m3u8
 #EXTINF:-1 tvg-id="CCTV15" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/CCV0eRG.png",CCTV15
 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-#EXTINF:-1 tvg-id="clubbing-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/MyiA92q.png",Clubbing TV
-https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/W70LTtj.png",Channel News Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b2500000.m3u8
@@ -447,8 +447,8 @@ https://jmp2.uk/sam-ESBC4700001GR.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/kNuVxxR.png",DW English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="euronews-en" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews Asia
-https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="euronews-en" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 #EXTINF:-1 tvg-id="Eurosport.fr" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/s4jDnJh.png",Eurosport
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/GFTAN5Q.png",Fashion TV Asia
@@ -478,8 +478,6 @@ https://xem.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassichd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/ClKBSSK.png",Hollywood Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="insight-tv-hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/7xmaoL0.png",Insight TV
-https://insighttv-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/C4bG0Md.png",In The Box Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh.m3u8
@@ -584,6 +582,8 @@ https://xem.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh.m3u8
 http://49.0.64.96:8007/RAI_Asia
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/1nN4rEP.png",Rai Italia Asia HD
 http://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
+#EXTINF:-1 tvg-id="RepublicTV.in" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/K9KX8un.png",Republic TV
+http://212.102.34.8:9080/RepublicTV/mono.m3u8
 #EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
 http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Documentary
@@ -619,6 +619,8 @@ http://210.92.207.38:40001
 https://live.drmlive-02.workers.dev/zee/0-9-9z5383484.m3u8
 #EXTINF:-1 tvg-id="ZeeBanglaCinema.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/pXTCrK5D/1280px-Zee-Bangla-Cinema-2025-svg.png",Zee Bangla Cinema
 https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
+#EXTINF:-1 tvg-id="ZeeBollywood.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/0jMDJ5rH/1280px-Zee-Bollywood-2025-svg.png",Zee Bollywood
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/0jHfbtGS/1280px-Zee-Cinema-2025-svg.png",Zee Cinema
 https://live.drmlive-02.workers.dev/zee/0-9-zeecinema.m3u8
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://i.postimg.cc/kG7YX5kD/1280px-Zee-Cinemalu-2025-svg.png" group-title="🎬| Phim truyện",Zee Cinemalu
