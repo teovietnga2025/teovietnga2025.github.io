@@ -442,6 +442,8 @@ https://cdn4.skygo.mn/live/disk1/ScienceSoutheast/HLSv3-FTA/ScienceSoutheast.m3u
 #EXTINF:-1 tvg-id="drfithd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/VrohcBb.png",Dr Fit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
+http://mail.glevn.com:56321/udp/225.1.4.39:30120
 #EXTINF:-1 tvg-id="ducktv" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/gRFQ35W.png",DUCK TV
 https://jmp2.uk/sam-ESBC4700001GR.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/kNuVxxR.png",DW English
@@ -488,7 +490,7 @@ https://cdn4.skygo.mn/live/disk1/KBS_World_24/HLSv3-FTA/KBS_World_24.m3u8
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/p02AEOF.png",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 tvg-id="KIX.hk" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="🤣| Giải trí",KIX
+#EXTINF:-1 tvg-id="kix" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="🤣| Giải trí",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="love-nature-4k" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/JEDlYlh.png",Love Nature 4K
@@ -505,8 +507,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xi
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.bd" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/l75bDTx.png",National Television (NTV)
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon Asia (English/Russian)
-http://31.148.48.15/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
