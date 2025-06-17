@@ -671,15 +671,16 @@ http://178.217.72.66:8080/Match_HD/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/Q2Q7Mgr.png",Пятый канал
-http://31.184.219.37/piatyikanal_MSK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kultura-pl4" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+http://vs6.cdn.mrf.tvime.ru/piatyikanal_MSK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kultura" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s16/04.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/tpqsFzm.png",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/1399200_576p.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/6X3rvou.png",Карусель International
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="🌐| Thiết yếu" tvg-logo="https://i.postimg.cc/SKvcc9jb/OTR.png",Общественное Телевидение России
-http://31.184.219.37/otr_MSK/tracks-v1a1/mono.m3u8
+http://vs6.cdn.mrf.tvime.ru/otr_MSK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tvci" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/ostQQO7.png",ТВ Центр International
 https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
 #EXTINF:-1 tvg-id="rentv-int" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/dad6X9r.png",Рен ТВ international
@@ -694,8 +695,8 @@ https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 https://cdn4.skygo.mn/live/disk1/TV3Russia/HLSv3-FTA/TV3Russia.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница! International
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
-#EXTINF:-1 tvg-id="zvezda" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/4PAcpfM.png",Телеканал Звезда
-http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl2" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/4PAcpfM.png",Телеканал Звезда
+http://vod.splay.uz/live_splay/original/Zvezda/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-pl2" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/CrFWXTD.png",МИР
 http://vod.splay.uz/live_splay/original/Mir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ International
@@ -717,7 +718,7 @@ http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="yu" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/KDZvt0Q.png",Телеканал Ю
 http://tv.streams.baikal-telecom.net:8080/U/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="che" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/ZOcDGpB.png",Че
-http://vs6.cdn.mrf.tvime.ru/che/index.m3u8
+http://vs6.cdn.mrf.tvime.ru/che/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="🤣| Giải trí",Peretz International
 https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
 #EXTINF:-1 tvg-id="ru-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/Z7HUU7V.png",RU.TV
