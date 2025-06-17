@@ -199,6 +199,8 @@ http://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
 #EXTINF:-1 tvg-id="binhthuan" group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/58gEtQy.png",BTV HD | TH Bình Thuận
 https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8
+#EXTINF:0 tvg-id="" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/Y8JlcPP.png",BTV6 | TH Bình Thuận
+http://14.227.223.78:12343/rtp/232.84.2.197:10966
 #EXTINF:-1 tvg-id="camau" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/ZKV1ok2.png",CTV HD | Báo & TH Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/ZJmlS1G.png",THTPCT HD | TH Cần Thơ
