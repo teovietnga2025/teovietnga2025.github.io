@@ -45,12 +45,16 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onphimviet" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="onsports" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports
+http://14.227.223.78:12343/rtp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="onmovies" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onechannel" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="onsportsplus" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+
+http://14.227.223.78:12343/rtp/232.84.3.75:11602
 #EXTINF:-1 tvg-id="ono2tv" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -72,9 +76,13 @@ https://live.fptplay53.net/fnxsd1/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="onmusic" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="onfootball" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football
+http://14.227.223.78:12343/rtp/232.84.3.243:11380
 #EXTINF:-1 tvg-id="ontrending" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="onsportsnews" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News
+http://14.227.223.78:12343/rtp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="onviedramas" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -138,6 +146,17 @@ https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/2oOVS42.png",SCTV6 - FIM 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="kcinehd" group-title="🍭| K+" group-logo="https://i.postimg.cc/906sYgn9/VSTV.png" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine
+http://14.227.223.78:12343/rtp/232.84.1.38:8202
+#EXTINF:0 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action
+http://14.227.223.78:12343/rtp/232.84.1.33:8172
+#EXTINF:0 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1
+http://14.227.223.78:12343/rtp/232.84.1.37:8196
+#EXTINF:0 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2
+http://14.227.223.78:12343/rtp/232.84.1.34:8178
+#EXTINF:0 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids
+http://14.227.223.78:12343/rtp/232.84.3.42:11800
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/hGKz43E.png" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV | Cục Truyền thông CAND
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -409,6 +428,10 @@ https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/W70LTtj.png",Channel News Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="cinemaworldhd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/vFVxJx4.png",CinemaWorld
+http://14.227.223.78:12343/rtp/232.84.3.64:11668
+#EXTINF:0 tvg-id="cinemaxhd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax Asia
+http://14.227.223.78:12343/rtp/232.84.3.117:10654
 #EXTINF:-1 tvg-id="cnbc" group-title="📈| Kinh tế" group-logo="https://i.imgur.com/nid3PMQ.png" tvg-logo="https://i.imgur.com/96cqIYx.png",CNBC Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b2500000.m3u8
@@ -443,7 +466,9 @@ https://cdn4.skygo.mn/live/disk1/ScienceSoutheast/HLSv3-FTA/ScienceSoutheast.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
-http://mail.glevn.com:56321/udp/225.1.4.39:30120
+http://14.227.223.78:12343/rtp/232.84.3.59:11698
+#EXTINF:0 tvg-id="dmax" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/vHmt91V.png",Dmax Southeast Asia
+http://14.227.223.78:12343/rtp/232.84.1.1:7980
 #EXTINF:-1 tvg-id="ducktv" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/gRFQ35W.png",DUCK TV
 https://jmp2.uk/sam-ESBC4700001GR.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/kNuVxxR.png",DW English
@@ -553,6 +578,10 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTINF:-1 tvg-id="SonyWah.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/JzXk6QJF/Sony-WAH.png",Sony WAH
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
+#EXTINF:0 tvg-id="spotv1" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV
+http://14.227.223.78:12343/rtp/232.84.2.141:10666
+#EXTINF:0 tvg-id="spotv2" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2
+http://14.227.223.78:12343/rtp/232.84.2.142:10672
 #EXTINF:-1 tvg-id="StarBharat.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Q8ajPij.png",Star Bharat
 http://103.120.172.74:5000
 #EXTINF:-1 tvg-id="StarGold.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/xC460sj.png",Star Gold
@@ -613,6 +642,8 @@ http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
 https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="YTN.kr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/SSQxzsd.png",YTN
 http://210.92.207.38:40001
+#EXTINF:0 tvg-id="XingKongChina.cn" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/3jlwft1.png",Xing Kong
+http://14.227.223.78:12343/rtp/232.84.3.189:11056
 #EXTINF:-1 tvg-id="ZeeBangla.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/6pK0TGnY/Zbangla-logo-2025.png",Zee Bangla
 https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/0jHfbtGS/1280px-Zee-Cinema-2025-svg.png",Zee Cinema
