@@ -712,9 +712,9 @@ http://178.217.72.66:8080/2x2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="super" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/nsk8PpB.png",Суббота
 http://178.217.72.66:8080/super/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts-love" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/YBVZoDd.png",СТС Love
-http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/tracks-v1a1/mono.m3u8
+http://tv.streams.baikal-telecom.net/CTC_LOVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="yu" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/KDZvt0Q.png",Телеканал Ю
-http://tv.streams.baikal-telecom.net:8080/U/tracks-v1a1/mono.m3u8
+http://tv.streams.baikal-telecom.net/U/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="che" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/ZOcDGpB.png",Че
 http://vs6.cdn.mrf.tvime.ru/che/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="🤣| Giải trí",Peretz International
@@ -722,13 +722,13 @@ https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
 #EXTINF:-1 tvg-id="ru-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/Z7HUU7V.png",RU.TV
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-id="rbk" group-title="📈| Kinh tế" tvg-logo="https://i.imgur.com/CwhmJby.png",РБК
-http://tv.streams.baikal-telecom.net:8080/RBK/tracks-v1a1/mono.m3u8
+http://tv.streams.baikal-telecom.net/RBK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rbk" group-title="📈| Kinh tế" tvg-logo="https://i.imgur.com/CwhmJby.png",РБК HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="izvestia" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/o4Julue.jpg",Телеканал Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/dj9c8Yd.png",МИР 24
-http://tv.streams.baikal-telecom.net:8080/Mir24/tracks-v1a1/mono.m3u8
+http://tv.streams.baikal-telecom.net/Mir24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/dj9c8Yd.png",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" group-title="🇷🇺| Kênh khu vực" group-logo="https://i.imgur.com/Bg2lv4N.png" tvg-logo="https://i.imgur.com/VTJqdoX.png",360°
@@ -877,7 +877,7 @@ http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/TMmyuzh.png",viju TV1000 Action
 http://vod.splay.uz/live_splay/original/vijuTV1000action/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/Meak2y4.png",viju TV1000 Русское кино
-http://tv.streams.baikal-telecom.net:8080/TV1000RuKino/tracks-v1a1/mono.m3u8
+http://tv.streams.baikal-telecom.net/TV1000RuKino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/oIQNddV.png",viju+ Megahit HD
 http://178.217.72.66:8080/vip_megahit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vip-serial" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/8yXZET5.png",viju+ serial
@@ -962,13 +962,13 @@ http://31.148.48.15/Eda_Premium_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/fR3abSD.png",Galaxy
 http://vod.splay.uz/live_splay/original/TayniGalaktiki/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nano-hd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/dYj3XDa.png",NANO HD
-http://tv.streams.baikal-telecom.net:8080/NanoTV/tracks-v1a1/mono.m3u8
+http://tv.streams.baikal-telecom.net/NanoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/fPvfVIe.png",Ocean TV
 http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 tvg-id="rtg-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV
 http://31.148.48.15/RTG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG HD
-http://tv.streams.baikal-telecom.net:8080/RTG_HD/tracks-v1a1/mono.m3u8
+http://tv.streams.baikal-telecom.net/RTG_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rtg-int" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZpUNou4.png",RTG Int.
 http://213.91.178.133:8000/play/a0bw
 #EXTINF:-1 tvg-id="sovsek" group-title="🌿| Khám phá" tvg-logo="https://iptvx.one/picons/sovsek.png",Top Secret
@@ -1022,9 +1022,9 @@ http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня ТВ
 http://vod.splay.uz/live_splay/original/KuxnyaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/uIiAdBv.png",Моя Планета
-http://tv.streams.baikal-telecom.net:8080/Nauka20/tracks-v1a1/mono.m3u8
+http://tv.streams.baikal-telecom.net/Nauka20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/uIiAdBv.png",Моя Планета HD
-http://tv.streams.baikal-telecom.net:8080/Moya_Planeta/tracks-v1a1/mono.m3u8
+http://tv.streams.baikal-telecom.net/Moya_Planeta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="otkryty-mir" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/7orZOJA.png",Открытый мир. Здоровье
 http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/nZwBaeW.png",ОХОТА И РЫБАЛКА
@@ -1116,7 +1116,7 @@ http://178.217.72.66:8080/fightbox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kxl" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/RgdHdOV.png",KHL
 http://178.124.179.122:8088/khl/index.m3u8
 #EXTINF:-1 tvg-id="kxl-hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/pwxT0ON.png",KHL Prime
-http://tv.streams.baikal-telecom.net:8080/KHL_HD/tracks-v1a1/mono.m3u8
+http://tv.streams.baikal-telecom.net/KHL_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ufc" group-title="⚽| Thể thao" tvg-logo="https://i.postimg.cc/KY0ZLQXD/ufc.png",UDAR
 http://162.19.205.146/10507/tracks-v1a1/mono.m3u8?token=F114E24B2461
 #EXTINF:-1 tvg-id="viasat-sport" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/fXESG0l.png",Viju+ Sport
@@ -1132,7 +1132,7 @@ http://31.148.48.15/Futbol_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="konny-mir" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/X6otbK0.png",КОННЫЙ МИР
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-arena" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/udTzwzu.png",Матч! Арена
-http://tv.streams.baikal-telecom.net:8080/MatchArena/tracks-v1a1/mono.m3u8
+http://tv.streams.baikal-telecom.net/MatchArena/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-arena" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/udTzwzu.png",Матч! Арена HD
 http://178.217.72.66:8080/Match_Arena_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-boets" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/DogOkA4.png",Матч! Боец
