@@ -586,13 +586,11 @@ http://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 http://212.102.34.8:9080/RepublicTV/mono.m3u8
 #EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
 http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Documentary
+#EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Док
 http://rt-doc.rttv.com/live/rtdru/rtdru1080.m3u8
 #EXTINF:-1 tvg-id="RTPInternacional.pt" group-title="🌏| Đối ngoại" tvg-logo="https://i.postimg.cc/xCGBmSBt/RTP-Internacional.png",RTP Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rtvi" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/1AEhXyS.png",RTVI
-http://45.143.108.110:2203/RTVi
 #EXTINF:-1 tvg-id="TDMMacauSatellite.mo" tvg-logo="https://i.imgur.com/iIfZsD6.png" group-title="🌏| Đối ngoại",TDM Macau
 https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC Southeast Asia
@@ -616,25 +614,13 @@ https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="YTN.kr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/SSQxzsd.png",YTN
 http://210.92.207.38:40001
 #EXTINF:-1 tvg-id="ZeeBangla.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/6pK0TGnY/Zbangla-logo-2025.png",Zee Bangla
-https://live.drmlive-02.workers.dev/zee/0-9-9z5383484.m3u8
-#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/pXTCrK5D/1280px-Zee-Bangla-Cinema-2025-svg.png",Zee Bangla Cinema
-https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
-#EXTINF:-1 tvg-id="ZeeBollywood.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/0jMDJ5rH/1280px-Zee-Bollywood-2025-svg.png",Zee Bollywood
-http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/0jHfbtGS/1280px-Zee-Cinema-2025-svg.png",Zee Cinema
-https://live.drmlive-02.workers.dev/zee/0-9-zeecinema.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://i.postimg.cc/kG7YX5kD/1280px-Zee-Cinemalu-2025-svg.png" group-title="🎬| Phim truyện",Zee Cinemalu
-https://live.drmlive-02.workers.dev/zee/0-9-9z5383488.m3u8
-#EXTINF:-1 tvg-id="ZeeKannada.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/RCdYFcGR/1280px-Zee-Kannada-2025-svg.png",Zee Kannada
-https://live.drmlive-02.workers.dev/zee/0-9-9z5383466.m3u8
+http://103.120.172.74:4000
 #EXTINF:-1 tvg-id="ZeeMarathi.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/C53jkLZd/1280px-Zee-Marathi-2025-svg.png",Zee Marathi
-https://live.drmlive-02.workers.dev/zee/0-9-zeemarathi.m3u8
-#EXTINF:-1 tvg-id="ZeeTamil.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/WbRxx2WR/1280px-Zee-Tamil-2025-svg.png",Zee Tamil
-https://live.drmlive-02.workers.dev/zee/0-9-zeetamil.m3u8
+http://103.120.172.74:1040
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://i.postimg.cc/NGkXjPG2/1280px-Zee-News-2025-svg.png" group-title="📰| Tin tức",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF:-1 tvg-id="ZeeThirai.in" tvg-logo="https://i.postimg.cc/NMHB7KnF/Zee-Thirai-2025.png" group-title="🎬| Phim truyện",Zee Thirai
-https://live.drmlive-02.workers.dev/zee/224.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/fyfB0hxy/1280px-Zee-TV-2025-svg.png",Zee TV
 http://38.96.178.201/live/ZEETV/index.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZooMoo
