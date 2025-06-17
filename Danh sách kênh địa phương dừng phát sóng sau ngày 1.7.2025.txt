@@ -1,0 +1,30 @@
+Danh sách kênh địa phương dừng phát sóng sau ngày 1/7/2025:
+1: Quảng Nam
+2: Bình Định
+3: Long An
+4: Bắc Giang
+5: Hải Dương
+6: Yên Bái
+7: Hà Giang
+8: Bắc Kạn
+9: Vĩnh Phúc
+10: Hoà Bình
+11: Thái Bình
+12: Hà Nam
+13: Nam Định
+14: Bến Tre
+15: Trà Vinh
+16: Bà Rịa – Vũng Tàu
+17: Bình Dương
+18: Bình Phước
+19: Hậu Giang
+20: Sóc Trăng
+21: Kiên Giang
+22: Tiền Giang
+23: Bạc Liêu
+24: Ninh Thuận
+25: Phú Yên
+26: Bình Thuận
+27: Đắk Nông
+28: Kon Tum
+29: Quảng Bình
