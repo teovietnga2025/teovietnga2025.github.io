@@ -616,8 +616,6 @@ http://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 #EXTINF:-1 tvg-id="RepublicTV.in" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/K9KX8un.png",Republic TV
 http://212.102.34.8:9080/RepublicTV/mono.m3u8
 #EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
-http://vod.splay.uz/live_splay/original/RUSSIATODAY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today HD
 http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Док
 http://rt-doc.rttv.com/live/rtdru/rtdru1080.m3u8
@@ -901,6 +899,8 @@ http://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
 http://162.19.205.146/10150/tracks-v1a1/mono.m3u8?token=F114E24B2461
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="nst" tvg-logo="https://i.imgur.com/uv2yxa5.png",НСТ
 http://178.217.72.66:8080/NSTV/index.m3u8
+#EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="kineko" tvg-logo="https://i.imgur.com/Otfvlmf.png",КИНЕКО
+http://194.143.148.28:8080/KINEKO/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/sMpamNO.png",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="kinosvidanie" tvg-logo="https://i.imgur.com/ZRaWqxj.png",Киносвидание
