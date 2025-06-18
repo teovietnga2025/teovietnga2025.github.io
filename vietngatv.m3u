@@ -456,6 +456,8 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/V8AUJP6.png",Da Vinci Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="DDSports.in" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/J2Ky5OO.png",DD Sports
+http://38.96.178.201/live/DDSports/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel SEA
 http://125hvt.ddns.net:21585/discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="🌿| Khám phá",Discovery Asia
@@ -619,9 +621,6 @@ http://212.102.34.8:9080/RepublicTV/mono.m3u8
 http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Док
 http://rt-doc.rttv.com/live/rtdru/rtdru1080.m3u8
-#EXTINF:-1 tvg-id="RTPInternacional.pt" group-title="🌏| Đối ngoại" tvg-logo="https://i.postimg.cc/xCGBmSBt/RTP-Internacional.png",RTP Internacional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC Southeast Asia
 http://125hvt.ddns.net:21585/tlc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8KQirah.png",Travelxp
