@@ -721,7 +721,7 @@ http://tv.streams.baikal-telecom.net/RBK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rbk" group-title="📈| Kinh tế" tvg-logo="https://i.imgur.com/CwhmJby.png",РБК HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="izvestia" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/o4Julue.jpg",Телеканал Известия
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/dj9c8Yd.png",МИР 24
 http://tv.streams.baikal-telecom.net/Mir24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/dj9c8Yd.png",МИР 24 HD
@@ -780,6 +780,8 @@ http://178.212.71.253:8000/play/142/index.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/GLc4qrc.png",Europa Plus TV
 #EXTVLCOPT:http-referrer=https://europaplustv.com/
 http://ad-hls-europaplus-ref.cdnvideo.ru/europaplus/eurptv2_site.smil/playlist.m3u8?zoid=srw2
+#EXTINF:-1 tvg-id="mcm-top" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/EVtWQLd.png",MCM TOP
+http://193.27.209.122/mcm_top/index.m3u8
 #EXTINF:-1 tvg-id="hit-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/00agTJO.png",HIT TV
 http://sc.id-tv.kz/HitTV.m3u8
 #EXTINF:-1 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/auNdGeW.png",Mezzo
@@ -818,8 +820,7 @@ http://178.217.72.66:8080/fan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="gulli-girl" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/lbViDuC.png",gulli GIRL
 http://178.219.160.169/130/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tiji" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/QCOUJ30.png",Tiji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s59/04.m3u8
+http://193.27.209.122/tiji/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/jNJkLHl.png",В гостях у сказки
 http://vod.splay.uz/live_splay/original/Vgostahuskazki/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/RU5PcqJ.png",Детский мир
@@ -837,8 +838,7 @@ https://pkvc-hls.cdnvideo.ru/O/smil:O.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="radost-moya" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/B5FA62o.png",Радость Моя
 http://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1 tvg-id="ryzhy" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/nhK4pK9.png",Рыжий
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s57/04.m3u8
+http://31.148.48.15/Rizhiy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="solnce" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/rec9akk.png",Солнце
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/o9kLpAL.png",СТС Kids
@@ -867,11 +867,13 @@ http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/1j7cT2I.png",HOLLYWOOD
 http://178.219.160.169/113/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="shot-tv" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/MLSG7tA.png",SHOT TV
-http://178.219.160.169/131/index.m3u8
+http://178.219.160.169/131/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="star-cinema" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/5sis895.png",Star Cinema
 http://vod.splay.uz/live_splay/original/Star_Cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="plan-b" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/V1kDv8H.png",Plan B
 http://162.19.205.146/10216/tracks-v1a1/mono.m3u8?token=F114E24B2461
+#EXTINF:-1 tvg-id="timeless-dizi" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/s3Sqd4L.png",Timeless Dizi Channel
+http://193.27.209.122/dizi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vhs-ka" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/C2377w9.png",VHS-ка
 http://178.219.160.169/118/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/ZMsyjSr.png",viju TV1000
