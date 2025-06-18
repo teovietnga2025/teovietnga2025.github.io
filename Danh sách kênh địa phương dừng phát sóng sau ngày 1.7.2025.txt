@@ -1,30 +1,30 @@
-Danh sách kênh địa phương dừng phát sóng sau ngày 1/7/2025:
-1: Quảng Nam
-2: Bình Định
-3: Long An
-4: Bắc Giang
-5: Hải Dương
-6: Yên Bái
-7: Hà Giang
-8: Bắc Kạn
-9: Vĩnh Phúc
-10: Hoà Bình
-11: Thái Bình
-12: Hà Nam
-13: Nam Định
-14: Bến Tre
-15: Trà Vinh
-16: Bà Rịa – Vũng Tàu
-17: Bình Dương
-18: Bình Phước
-19: Hậu Giang
-20: Sóc Trăng
-21: Kiên Giang
-22: Tiền Giang
-23: Bạc Liêu
-24: Ninh Thuận
-25: Phú Yên
-26: Bình Thuận
-27: Đắk Nông
-28: Kon Tum
-29: Quảng Bình
+Danh sách kênh địa phương dừng phát sóng và được tiếp sóng Chương trình Truyền Hình sau ngày 1/7/2025:
+1: Quảng Nam (tiếp sóng DaNangTV2)
+2: Bình Định (tiếp sóng THGL)
+3: Long An (tiếp sóng TTV11)
+4: Bắc Giang (tiếp sóng BTV)
+5: Hải Dương (tiếp sóng THP+)
+6: Yên Bái (tiếp sóng THLC)
+7: Hà Giang (tiếp sóng TTV)
+8: Bắc Kạn (tiếp sóng TN1)
+9: Vĩnh Phúc (tiếp sóng PTV)
+10: Hoà Bình (tiếp sóng PTV)
+11: Thái Bình (tiếp sóng HYTV)
+12: Hà Nam (tiếp sóng NBTV)
+13: Nam Định (tiếp sóng NBTV)
+14: Bến Tre (tiếp sóng THVL1)
+15: Trà Vinh (tiếp sóng THVL1)
+16: Bà Rịa – Vũng Tàu (tiếp sóng HTV9)
+17: Bình Dương (tiếp sóng HTV9)
+18: Bình Phước (tiếp sóng DNRTV1)
+19: Hậu Giang (tiếp sóng THTPCT)
+20: Sóc Trăng (tiếp sóng THTPCT)
+21: Kiên Giang (tiếp sóng ATV)
+22: Tiền Giang (tiếp sóng THĐT2)
+23: Bạc Liêu (tiếp sóng CTV)
+24: Ninh Thuận (tiếp sóng KTV)
+25: Phú Yên (tiếp sóng DRT)
+26: Bình Thuận (tiếp sóng LTV)
+27: Đắk Nông (tiếp sóng LTV)
+28: Kon Tum (tiếp sóng PTQ)
+29: Quảng Bình (tiếp sóng QRTV)
