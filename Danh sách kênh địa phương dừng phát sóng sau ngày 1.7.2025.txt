@@ -20,7 +20,7 @@ Danh sách kênh địa phương dừng phát sóng và được tiếp s
 19: Hậu Giang (tiếp sóng THTPCT)
 20: Sóc Trăng (tiếp sóng THTPCT)
 21: Kiên Giang (tiếp sóng ATV)
-22: Tiền Giang (tiếp sóng THĐT2)
+22: Tiền Giang (tiếp sóng THĐT1)
 23: Bạc Liêu (tiếp sóng CTV)
 24: Ninh Thuận (tiếp sóng KTV)
 25: Phú Yên (tiếp sóng DRT)
