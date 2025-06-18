@@ -1110,8 +1110,6 @@ http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playl
 #EXTINF:-1 tvg-id="dumatv" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/JvlO3PU.png",Дума ТВ
 http://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="belarus24" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/BP7tY6F.png",Беларусь 24
-http://178.212.71.253:8000/play/89/index.m3u8
-#EXTINF:-1 tvg-id="belarus24" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/BP7tY6F.png",Беларусь 24 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tro" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/tUF33HD.png",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
