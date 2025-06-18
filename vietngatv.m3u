@@ -388,7 +388,7 @@ https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN East Asia
 http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.postimg.cc/g0S840CN/BTV-News-Logo.png" group-title="📰| Tin tức",BTV News
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/M9kMFJl.png",B4U Movies
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/cd1f59d6-9b5d-43f0-bfb2-6ca9edc99f27/0.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" group-title="🎧| Âm nhạc" group-logo="https://i.imgur.com/BXB2IkB.png" tvg-logo="https://i.imgur.com/KSxPLJA.png",B4U Music
@@ -533,7 +533,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xi
 #EXTINF:-1 tvg-id="myzen-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/fIi8o0C.png",myZen.tv
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.bd" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/l75bDTx.png",National Television (NTV)
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/master.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
@@ -595,7 +595,7 @@ http://38.96.178.201/live/StarPlus/index.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/ZT0u7AK.png",Star Pravah
 http://103.120.172.74:1060
 #EXTINF:-1 tvg-id="StarSports1.in" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/E5jjKHI.png",Star Sports 1
-http://103.120.172.74:5500
+http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarSports2.in" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/5En7pOI.png",Star Sports 2
 http://103.120.172.74:4200
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/n93KZnX.png" group-title="🌏| Đối ngoại",Phoenix Chinese Channel
@@ -641,8 +641,6 @@ https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
 http://210.92.207.38:40001
 #EXTINF:-1 tvg-id="XingKongChina.cn" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/3jlwft1.png",Xing Kong
 http://14.227.223.78:12343/rtp/232.84.3.189:11056
-#EXTINF:-1 tvg-id="ZeeBangla.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/6pK0TGnY/Zbangla-logo-2025.png",Zee Bangla
-https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/0jHfbtGS/1280px-Zee-Cinema-2025-svg.png",Zee Cinema
 http://103.120.172.74:4000
 #EXTINF:-1 tvg-id="ZeeMarathi.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/C53jkLZd/1280px-Zee-Marathi-2025-svg.png",Zee Marathi
