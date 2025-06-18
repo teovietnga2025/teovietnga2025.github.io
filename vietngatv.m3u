@@ -754,8 +754,10 @@ http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7
 http://213.91.178.133:8000/play/a0b2
 #EXTINF:-1 tvg-id="prodvizhenie" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.imgur.com/JrOuqJy.png",Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1 tvg-id="otv-eburg" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.postimg.cc/j2FkFZWr/OTV.png",ОТВ (Екатеринбург)
+#EXTINF:-1 tvg-id="otv-eburg" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.postimg.cc/j2FkFZWr/OTV.png",ОТВ Екатеринбург
 http://vd.obltv.ru/watch/air_hd.m3u8
+#EXTINF:-1 tvg-id="ots" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.imgur.com/T7YPwMe.png",ОТС
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-id="tnv-planeta" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.imgur.com/ijA1zDw.png",ТНВ-Планета
 http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tnv" group-title="🇷🇺| Kênh khu vực" tvg-logo="https://i.imgur.com/58u9TQT.png",ТНВ Татарстан
@@ -961,8 +963,6 @@ http://31.148.48.15/Eda_Premium_HD/tracks-v1a1/mono.m3u8
 http://vod.splay.uz/live_splay/original/TayniGalaktiki/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nano-hd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/dYj3XDa.png",NANO HD
 http://tv.streams.baikal-telecom.net/NanoTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ocean-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/fPvfVIe.png",Ocean TV
-http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 tvg-id="rtg-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV
 http://31.148.48.15/RTG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG HD
