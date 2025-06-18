@@ -480,9 +480,6 @@ https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/GFTAN5Q.png",Fashion TV Asia
 https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
-#EXTINF:-1 tvg-id="food-network" tvg-logo="https://i.imgur.com/GYsKibK.png" group-title="🌿| Khám phá",Food Network Asia (Russian)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 tvg-id="fox-news-us" group-title="📰| Tin tức" tvg-logo="https://i.postimg.cc/SKgVLPqd/Fox-News-Channel.png",FOX NEWS Channel
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-id="france24-en" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/B76eSg2.png",France 24 English
@@ -589,15 +586,17 @@ http://103.120.172.74:5000
 #EXTINF:-1 tvg-id="StarGold.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/xC460sj.png",Star Gold
 http://38.96.178.201/live/StarGold/index.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/IlufzR5.png",Star Jalsha
-http://38.96.178.201/live/STARJALSHA/index.m3u8
+https://smart.bengaldigital.live/Star-jalsha/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/xWxNy3L.png",Star Plus
 http://38.96.178.201/live/StarPlus/index.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/ZT0u7AK.png",Star Pravah
 http://103.120.172.74:1060
 #EXTINF:-1 tvg-id="StarSports1.in" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/E5jjKHI.png",Star Sports 1
-http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
+https://smart.bengaldigital.live/star-sports-1/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2.in" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/5En7pOI.png",Star Sports 2
-http://103.120.172.74:4200
+https://smart.bengaldigital.live/star-sports-2/index.m3u8
+#EXTINF:-1 tvg-id="StarPravah.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/ZT0u7AK.png",SUN BANGLA
+https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/n93KZnX.png" group-title="🌏| Đối ngoại",Phoenix Chinese Channel
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="PhoenixHongKongChannel.hk" tvg-logo="https://i.imgur.com/E0DQnRo.png" group-title="🌏| Đối ngoại",Phoenix Hong Kong Channel
