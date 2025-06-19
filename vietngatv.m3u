@@ -510,6 +510,10 @@ https://xem.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="museum-hd" group-title="🎭| Văn hóa" tvg-logo="https://i.imgur.com/WbjURLo.png",Museum TV English
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="MCOTHD.th" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/ejPxGmU.png",MCOT HD 30
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
+#EXTINF:-1 tvg-id="MVLaoTV.la" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/oVlQUKM.png",MV Lao TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
 #EXTINF:-1 tvg-id="myzen-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/fIi8o0C.png",myZen.tv
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.bd" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/l75bDTx.png",National Television (NTV)
@@ -522,9 +526,9 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Kh4MWaY.png",Outdoor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/VwQnBqa.png",Setanta Sports 1
+#EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/VwQnBqa.png",Setanta Sports 1 Eurasia
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/VwQnBqa.png",Setanta Sports 2
+#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/VwQnBqa.png",Setanta Sports 2 Eurasia
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/AkdfpVr.png",Sony Entertainment Television
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
@@ -597,10 +601,16 @@ http://212.102.34.8:9080/RepublicTV/mono.m3u8
 http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Док
 http://rt-doc.rttv.com/live/rtdru/rtdru1080.m3u8
+#EXTINF:-1 tvg-id="ThairathTV.th" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/qIorZoy.png",Thairath TV 32
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC Southeast Asia
 http://125hvt.ddns.net:21585/tlc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8KQirah.png",Travelxp
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TSports7.th" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/KyI0s5n.png",T Sports 7
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
+#EXTINF:-1 tvg-id="ThaiParliamentTelevision.th" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Okcnmt6.png",TPTV
+https://tv-live.tpchannel.org/live/tv.m3u8
 #EXTINF:-1 tvg-id="TRTWorldHD" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/XLaZUzJ.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5Monde ASIE
@@ -1153,7 +1163,7 @@ http://178.212.71.253:8000/play/81/index.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/hJK7mOW.png",Русский Экстрим
 http://178.219.160.169/140/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/hJK7mOW.png",Русский Экстрим HD
-http://91.226.120.120/chid44/index.m3u8
+http://91.226.120.120/chid44/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Radio.vov1" group-title="📻| Radio" group-logo="https://i.imgur.com/IPNh4tM.png" tvg-logo="https://i.imgur.com/jFOE43P.png" radio="true",VOV1
 https://stream.vovmedia.vn/vov1
@@ -1195,13 +1205,13 @@ https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 http://as-hls-ww-live.akamaized.net/pool_31623735/live/ww/bbc_world_service_east_asia/bbc_world_service_east_asia.isml/bbc_world_service_east_asia-audio%3d320000.norewind.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.postimg.cc/52HfgV7g/BBC-World-Service.png" radio="true",BBC World Service English South Asia
 http://as-hls-ww-live.akamaized.net/pool_80670621/live/ww/bbc_world_service_south_asia/bbc_world_service_south_asia.isml/bbc_world_service_south_asia-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MTn3QGG7/cgtn-radio-cn.png" group-title="📻| Radio" radio="true",CGTN Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RVkH8gQm/CGTN-Radio-logo.jpg" group-title="📻| Radio" radio="true",CGTN Radio
 http://sk.cri.cn/am846.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Vkc0GtkG/chinaplusradio.png" group-title="📻| Radio" radio="true",China Plus Radio
 http://sk.cri.cn/am1008.m3u8
-#EXTINF:-1 tvg-name="轻松调频" tvg-logo="https://i.postimg.cc/8PjsQKVc/cri-ez-fm-cn.png" group-title="📻| Radio" radio="true",CRI EZFM
+#EXTINF:-1 tvg-name="轻松调频" tvg-logo="https://i.postimg.cc/VsVwzTVx/CRI-EZFM-logo.png" group-title="📻| Radio" radio="true",CRI EZFM
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1 tvg-name="HITFM劲曲调频" tvg-logo="https://i.postimg.cc/23pstSD4/cri-hit-fm-887-cn.png" group-title="📻| Radio" radio="true",CRI HITFM
+#EXTINF:-1 tvg-name="HITFM劲曲调频" tvg-logo="https://i.postimg.cc/CKVxCtCZ/CRI-Hit-FM-logo.png" group-title="📻| Radio" radio="true",CRI HITFM
 http://sk.cri.cn/887.m3u8
 #EXTINF:-1 tvg-name="环球资讯广播" tvg-logo="https://i.postimg.cc/k5rkX46z/cri-news-radio-cn.png" group-title="📻| Radio" radio="true",CRI News Radio
 http://sk.cri.cn/905.m3u8
