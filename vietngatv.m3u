@@ -366,11 +366,12 @@ https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b2500000.m3u8
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in" group-title="📰| Tin tức" tvg-logo="https://i.postimg.cc/6QyGxBQS/ABPNews.jpg",ABP News India
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8
-#EXTINF:-1 tvg-id="animax" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ltRW5ev.png",Animax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xem.TruyenHinh.Click/BMT/animax/DoiTac.m3u8
+#EXTINF:-1 tvg-id="AnimaxAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ltRW5ev.png",Animax Asia
+https://smart.pendy.dpdns.org/Smart.php?id=Animax
+#EXTINF:-1 tvg-id="Asianet.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Wv7MOzg.png",Asianet
+https://smart.pendy.dpdns.org/Smart.php?id=asianet_raj
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN East Asia
-http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
+https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
 #EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.postimg.cc/g0S840CN/BTV-News-Logo.png" group-title="📰| Tin tức",BTV News
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/M9kMFJl.png",B4U Movies
@@ -399,30 +400,36 @@ https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CGNTVSouthKorea.kr" tvg-logo="https://i.imgur.com/zwZASOB.png" group-title="🎭| Văn hóa",CGN TV
 https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
-#EXTINF:-1 tvg-id="CCTV4美洲" group-title="🌏| Đối ngoại" tvg-id="CCTV4美洲" tvg-logo="https://i.imgur.com/XXBAJpA.png",CCTV-4 Asia
-http://sv.cvtv.xyz:81/c4?token=live
+#EXTINF:-1 tvg-id="CCTV4美洲" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/XXBAJpA.png",CCTV-4 Asia
+http://120.76.248.139/live/bfgd/4200000063.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+
 http://49.0.64.96:8007/CCTV-5
-#EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV14
+#EXTINF:-1 tvg-id="CCTV13" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/XXBAJpA.png",CCTV-13
+http://120.76.248.139/live/bfgd/4200000067.m3u8
+#EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14
 https://cdn4.skygo.mn/live/disk1/CCTV-14/HLSv3-FTA/CCTV-14.m3u8
-#EXTINF:-1 tvg-id="CCTV15" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/CCV0eRG.png",CCTV15
+#EXTINF:-1 tvg-id="CCTV15" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/CCV0eRG.png",CCTV-15
 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+#EXTINF:-1 tvg-id="CelestialMovies.hk" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/Mb5ssnu.png",Celestial Movies
+https://smart.pendy.dpdns.org/Smart.php?id=Celestial2
 #EXTINF:-1 tvg-id="cna" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/W70LTtj.png",Channel News Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/vFVxJx4.png",CinemaWorld
 http://mail.glevn.com:56321/udp/225.1.1.142:30120
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax Asia
-http://mail.glevn.com:56321/udp/225.1.2.86:30120
+https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
 #EXTINF:-1 tvg-id="cnbc" group-title="📈| Kinh tế" group-logo="https://i.imgur.com/nid3PMQ.png" tvg-logo="https://i.imgur.com/96cqIYx.png",CNBC Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Asia Pacific
 http://125hvt.ddns.net:21585/cnn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Colors.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/M8uCJ0D.png",Colors
-http://103.120.172.74:1150
+https://smart.pendy.dpdns.org/Smart.php?id=Colorhd
 #EXTINF:-1 tvg-id="ColorsBangla.in" tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="🤣| Giải trí",Colors Bangla
 http://38.96.178.201/live/ColorsBangla/index.m3u8
+#EXTINF:-1 tvg-id="ColorsTamil.in" tvg-logo="https://i.imgur.com/zZXCFqF.png" group-title="🤣| Giải trí",Colors Tamil
+https://smart.pendy.dpdns.org/Smart.php?id=Colorstam
 #EXTINF:-1 tvg-id="cgtn" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/Q3gLfHw.png",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
@@ -450,7 +457,7 @@ https://cdn4.skygo.mn/live/disk1/ScienceSoutheast/HLSv3-FTA/ScienceSoutheast.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
-http://mail.glevn.com:56321/udp/225.1.4.39:30120
+https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
 #EXTINF:-1 tvg-id="dmax-tr" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/vHmt91V.png",Dmax Turkey
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="ducktv" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/gRFQ35W.png",DUCK TV
@@ -470,6 +477,8 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="france24-fr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/u8N6uoj.png",France 24 French
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="FoodNetworkAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GYsKibK.png",Food Network Asia
+https://smart.pendy.dpdns.org/Smart.php?id=Foodnetwork
 #EXTINF:-1 tvg-id="gags-network" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/ENj5GIp.png",Gags Network
 http://95.67.12.82:9069
 #EXTINF:-1 tvg-id="GolfChannel.my" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/Kir4aaU.png",Golf Channel Asia
@@ -478,7 +487,7 @@ http://49.0.64.96:8007/GOLF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO Asia
-http://125hvt.ddns.net:21585/hbo/tracks-v1a1/mono.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=Hbo
 #EXTINF:-1 tvg-id="hgtv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/BwBr0ib.png",HGTV Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh.m3u8
@@ -503,6 +512,8 @@ https://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 tvg-id="kix" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="🤣| Giải trí",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://i.imgur.com/RbS0q71.png" group-title="🤣| Giải trí",K-Plus
+https://smart.pendy.dpdns.org/Smart.php?id=Kplus
 #EXTINF:-1 tvg-id="love-nature-4k" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/JEDlYlh.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="man" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/eojhBXT.png",Man
@@ -573,6 +584,12 @@ http://103.120.172.74:5000
 http://38.96.178.201/live/StarGold/index.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/IlufzR5.png",Star Jalsha
 https://smart.bengaldigital.live/Star-jalsha/index.m3u8
+#EXTINF:-1 tvg-id="StarMaa.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa
+https://smart.pendy.dpdns.org/Smart.php?id=starmaa_raj
+#EXTINF:-1 tvg-id="StarMaa.in" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa Movies
+https://smart.pendy.dpdns.org/Smart.php?id=starmaamovies_raj
+#EXTINF:-1 tvg-id="StarMovies.in" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/JhT3k6R.png",Star Movies
+https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
 #EXTINF:-1 tvg-id="StarPlus.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/xWxNy3L.png",Star Plus
 http://38.96.178.201/live/StarPlus/index.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/ZT0u7AK.png",Star Pravah
@@ -581,6 +598,12 @@ http://103.120.172.74:1060
 https://smart.bengaldigital.live/star-sports-1/index.m3u8
 #EXTINF:-1 tvg-id="StarSports2.in" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/5En7pOI.png",Star Sports 2
 https://smart.bengaldigital.live/star-sports-2/index.m3u8
+#EXTINF:-1 tvg-id="StarVijay.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/dZtJHAe.png",Star Vijay
+https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
+#EXTINF:-1 tvg-id="VijaySuper.in" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/3MWm9nD.png",Star Vijay Super
+https://smart.pendy.dpdns.org/Smart.php?id=vijaysuper_raj
+#EXTINF:-1 tvg-id="SunTV.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Z0HJi56.png",SUN TV
+https://smart.pendy.dpdns.org/Smart.php?id=Suntv
 #EXTINF:-1 tvg-id="SunBangla.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/fH62JFs.png",SUN BANGLA
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/n93KZnX.png" group-title="🌏| Đối ngoại",Phoenix Chinese Channel
@@ -600,14 +623,20 @@ http://49.0.64.96:8007/RAI_Asia
 http://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 #EXTINF:-1 tvg-id="RepublicTV.in" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/K9KX8un.png",Republic TV
 http://212.102.34.8:9080/RepublicTV/mono.m3u8
+#EXTINF:-1 tvg-id="ROCKAction.sg" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/l6lmlqG.png",Rock Action
+https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/PWzq0aU.png",Rock Entertainment
+https://smart.pendy.dpdns.org/Smart.php?id=Rockentertain
 #EXTINF:-1 tvg-id="rt-news" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
 http://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT Док
 http://rt-doc.rttv.com/live/rtdru/rtdru1080.m3u8
 #EXTINF:-1 tvg-id="ThairathTV.th" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/qIorZoy.png",Thairath TV 32
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
+#EXTINF:-1 tvg-id="Thrill.hk" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Y282owj.png",Thrill
+https://smart.pendy.dpdns.org/Smart.php?id=Thrill
 #EXTINF:-1 tvg-id="tlchd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC Southeast Asia
-http://125hvt.ddns.net:21585/tlc/tracks-v1a1/mono.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=Tlc
 #EXTINF:-1 tvg-id="Travelxp.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8KQirah.png",Travelxp
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TSports7.th" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/KyI0s5n.png",T Sports 7
@@ -622,30 +651,36 @@ https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="🌏| Đối ngoại",TVE Internacional Asia-Oceania
 http://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 #EXTINF:-1 tvg-id="tvN.kr" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/RCKK4Y8Y/tvN.png",tvN
-https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
+https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-id="tvNMoviesAsia.hk" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/c4XvwO2.png",tvN Movies
+https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/B9AVT2i.png",Warner Bros TV
-http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
+https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 #EXTINF:-1 tvg-id="womanhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/ePYXLBQ.png",Woman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="YTN.kr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/SSQxzsd.png",YTN
 http://210.92.207.38:40001
-#EXTINF:-1 tvg-id="ZeeBangla.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/6pK0TGnY/Zbangla-logo-2025.png",Zee Bangla
-https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+#EXTINF:-1 tvg-id="ZeeAction.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/DwYR6WPZ/1280px-Zee-Action-2025-svg.png",Zee Action
+https://smart.pendy.dpdns.org/Smart.php?id=Zeeaction
+#EXTINF:-1 tvg-id="ZeeBusiness.in" group-title="📈| Kinh tế" tvg-logo="https://i.postimg.cc/ZqCV5V3Y/1280px-Zee-Business-2025-svg.png",Zee Business
+https://smart.pendy.dpdns.org/Smart.php?id=Zeebusiness
 #EXTINF:-1 tvg-id="ZeeCinema.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/0jHfbtGS/1280px-Zee-Cinema-2025-svg.png",Zee Cinema
 http://103.120.172.74:4000
 #EXTINF:-1 tvg-id="ZeeMarathi.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/C53jkLZd/1280px-Zee-Marathi-2025-svg.png",Zee Marathi
 http://103.120.172.74:1040
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://i.postimg.cc/NGkXjPG2/1280px-Zee-News-2025-svg.png" group-title="📰| Tin tức",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/FsWbq0dj/1280px-Zee-Tamil-2025-svg.png",Zee Tamil
+https://smart.pendy.dpdns.org/Smart.php?id=Zeetamil
 #EXTINF:-1 tvg-id="ZeeTV.in" group-title="🤣| Giải trí" tvg-logo="https://i.postimg.cc/fyfB0hxy/1280px-Zee-TV-2025-svg.png",Zee TV
-http://38.96.178.201/live/ZEETV/index.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=Zeetvhd
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZooMoo
 https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 
 #EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/QSVbW7r.png",Первый канал. Всемирная сеть
 https://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/f54OT4e.png",РТР Планета Азия
+#EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/f54OT4e.png",РТР Планета Азия
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363/playlist.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
