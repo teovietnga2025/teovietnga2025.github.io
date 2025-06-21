@@ -721,9 +721,9 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 http://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04/playlist.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/6X3rvou.png",Карусель International
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
-#EXTINF:-1 tvg-id="otr" group-title="🌐| Thiết yếu" tvg-logo="https://i.postimg.cc/SKvcc9jb/OTR.png",Общественное Телевидение России
-http://vs6.cdn.mrf.tvime.ru/otr_MSK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tvci" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/ostQQO7.png",ТВ Центр International
+#EXTINF:-1 tvg-id="otr-pl2" group-title="🌐| Thiết yếu" tvg-logo="https://i.postimg.cc/SKvcc9jb/OTR.png",Общественное Телевидение России
+http://94.230.128.107:8080/OTP/index.m3u8
+#EXTINF:-1 tvg-id="tvci" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/ostQQO7.png",ТВ Центр International
 https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
 #EXTINF:-1 tvg-id="rentv-int" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/dad6X9r.png",Рен ТВ international
 https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
@@ -993,6 +993,8 @@ http://178.219.160.169/115/tracks-v1a1/mono.m3u8
 http://vod.splay.uz/live_splay/original/Mujskoe-KinoHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="sapfir" tvg-logo="https://i.imgur.com/NMOBvle.png",Сапфир
 http://mfe02.cliptv.az/dash/Fox_Russia_SDqwqwqw321.ism/playlist.mpd
+#EXTINF:-1 tvg-id="patriot" tvg-logo="https://i.postimg.cc/SR796Mzm/3-F3-F3-F283-F3-F3-F29.png" group-title="🎬| Phim truyện",Патриот
+http://catchup.videoline.ru/asvtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="retro-tv" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/p21co1w.png",Ретро
 http://vod.splay.uz/live_splay/original/Retro/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/H70LxoZ.png",РОДНОЕ КИНО
