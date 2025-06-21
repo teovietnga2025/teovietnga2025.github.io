@@ -487,7 +487,7 @@ https://jmp2.uk/sam-ESBC4700001GR.m3u8
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="euronews-en" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport.fr" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/s4jDnJh.png",Eurosport
+#EXTINF:-1 tvg-id="EUROSPORT" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/s4jDnJh.png",Eurosport
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/GFTAN5Q.png",Fashion TV Asia
 https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
