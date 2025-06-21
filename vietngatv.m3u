@@ -79,7 +79,7 @@ http://luizkun.duckdns.org:63213/rtp/232.84.1.210:9234
 #EXTINF:-1 tvg-id="ontrending" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="onsportsnews" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News (HD 8Mbps)
+#EXTINF:-1 tvg-id="onsportsnews" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News
 http://luizkun.duckdns.org:63213/rtp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="onviedramas" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -201,6 +201,8 @@ http://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
 #EXTINF:-1 tvg-id="binhthuan" group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/58gEtQy.png",BTV HD | Báo & TH Bình Thuận
 https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8
+#EXTINF:-1 group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/Y8JlcPP.png",BTV6 | Shopping 24h
+http://luizkun.duckdns.org:63213/rtp/232.84.2.197:10966
 #EXTINF:-1 tvg-id="camau" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/ZKV1ok2.png",CTV HD | Báo & TH Cà Mau
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/ZJmlS1G.png",THTPCT HD | TH Cần Thơ
