@@ -739,8 +739,8 @@ https://cdn4.skygo.mn/live/disk1/TV3Russia/HLSv3-FTA/TV3Russia.m3u8
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/4PAcpfM.png",Телеканал Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="mir" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/CrFWXTD.png",МИР
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8.m3u8
+#EXTINF:-1 tvg-id="mir-kz" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/CrFWXTD.png",МИР
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ International
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ-ТВ
@@ -1125,9 +1125,6 @@ http://31.148.48.15/KVN_TV/tracks-v1a1/mono.m3u8
 http://sc.id-tv.kz/NovoeTVHD.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="🤣| Giải trí",НОСТАЛЬГИЯ
 http://31.148.48.15/Nostalgiya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="🤣| Giải trí",НТВ Стиль
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s77/04.m3u8
 #EXTINF:-1 tvg-id="lapki-live" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/nBXv1bA.png",Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/4KiYSln.png",Победа
