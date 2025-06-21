@@ -144,7 +144,7 @@ https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/2oOVS42.png",SCTV6 - FIM 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="sctv4k" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp",SCTV4K 
+#EXTINF:-1 tvg-id="sctv4k" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://i.postimg.cc/d3QdSWKh/SCTV4K.png",SCTV4K 
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" group-logo="https://i.postimg.cc/906sYgn9/VSTV.png" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine
