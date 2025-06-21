@@ -702,8 +702,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=Zeetvhd
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZooMoo
 https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 
-#EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/QSVbW7r.png",Первый канал. Всемирная сеть
-https://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/QSVbW7r.png",Первый канал-Азия
+http://vod.splay.uz/live_splay/original/Perviy_Kanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/f54OT4e.png",РТР Планета Азия
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363/playlist.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ
@@ -936,7 +936,7 @@ http://178.217.72.66:8080/vip_megahit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vip-serial" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/8yXZET5.png",viju+ serial
 http://178.219.160.169/107/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vremia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/jZlj3ga.png",Время
-https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.mpd
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
 #EXTINF:-1 tvg-id="domkino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/zbkhImD.png",Дом Кино
 https://pkvc-hls.cdnvideo.ru/DK/smil:DK.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/rJpQtvK.png",Дом Кино Премиум
@@ -1089,7 +1089,7 @@ http://vod.splay.uz/live_splay/original/Ohota_Ribalka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="istoria" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/eEjPail.png",История
 http://31.148.48.15/Istoriya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="poexali" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Jth64Nu.png",Поехали!
-https://cdn4.skygo.mn/live/disk1/Poehali/HLSv3-FTA/Poehali.m3u8
+http://31.148.48.15/Poehali/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/qQ6pPPQ.png",Приключения
 http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="psixologia-21" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GsfedKS.png",Психология
