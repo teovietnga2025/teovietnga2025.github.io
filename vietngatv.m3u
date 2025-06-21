@@ -45,6 +45,8 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onphimviet" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="onsports" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports HD
+http://luizkun.duckdns.org:63213/rtp/232.84.1.207:9216
 #EXTINF:-1 tvg-id="onmovies" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -72,9 +74,13 @@ https://live.fptplay53.net/fnxsd1/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="onmusic" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="onfootball" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football HD (HD 8Mbps)
+http://luizkun.duckdns.org:63213/rtp/232.84.1.210:9234
 #EXTINF:-1 tvg-id="ontrending" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:0 tvg-id="onsportsnews" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News (HD 8Mbps)
+http://luizkun.duckdns.org:63213/rtp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="onviedramas" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -140,6 +146,17 @@ https://xem.TruyenHinh.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp",SCTV4K 
 https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
+
+#EXTINF:0 tvg-id="kcinehd" group-title="🍭| K+" group-logo="https://i.postimg.cc/906sYgn9/VSTV.png" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine
+http://luizkun.duckdns.org:63213/rtp/232.84.1.122:10314
+#EXTINF:0 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action
+http://luizkun.duckdns.org:63213/rtp/232.84.1.123:10320
+#EXTINF:0 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1
+http://luizkun.duckdns.org:63213/rtp/232.84.1.125:10326
+#EXTINF:0 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2
+http://luizkun.duckdns.org:63213/rtp/232.84.1.176:10374
+#EXTINF:0 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids
+http://luizkun.duckdns.org:63213/rtp/232.84.3.42:11800
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/hGKz43E.png" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV | Cục Truyền thông CAND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -417,7 +434,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=Celestial2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/vFVxJx4.png",CinemaWorld
-http://mail.glevn.com:56321/udp/225.1.1.142:30120
+http://luizkun.duckdns.org:63213/rtp/232.84.3.64:11668
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax Asia
 https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
 #EXTINF:-1 tvg-id="cnbc" group-title="📈| Kinh tế" group-logo="https://i.imgur.com/nid3PMQ.png" tvg-logo="https://i.imgur.com/96cqIYx.png",CNBC Asia
@@ -459,8 +476,8 @@ https://cdn4.skygo.mn/live/disk1/ScienceSoutheast/HLSv3-FTA/ScienceSoutheast.m3u
 https://xem.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
 https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
-#EXTINF:-1 tvg-id="dmax-tr" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/vHmt91V.png",Dmax Turkey
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1 tvg-id="dmax" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/vHmt91V.png",Dmax Southeast Asia
+http://luizkun.duckdns.org:63213/rtp/232.84.1.1:7980
 #EXTINF:-1 tvg-id="ducktv" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/gRFQ35W.png",DUCK TV
 https://jmp2.uk/sam-ESBC4700001GR.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại" tvg-logo="https://i.imgur.com/kNuVxxR.png",DW English
@@ -603,6 +620,10 @@ https://smart.bengaldigital.live/star-sports-2/index.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
 #EXTINF:-1 tvg-id="VijaySuper.in" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/3MWm9nD.png",Star Vijay Super
 https://smart.pendy.dpdns.org/Smart.php?id=vijaysuper_raj
+#EXTINF:0 tvg-id="spotv1" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV
+http://luizkun.duckdns.org:63213/rtp/232.84.2.141:10666
+#EXTINF:0 tvg-id="spotv2" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2
+http://luizkun.duckdns.org:63213/rtp/232.84.2.142:10672
 #EXTINF:-1 tvg-id="SunTV.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Z0HJi56.png",SUN TV
 https://smart.pendy.dpdns.org/Smart.php?id=Suntv
 #EXTINF:-1 tvg-id="SunBangla.in" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/fH62JFs.png",SUN BANGLA
@@ -660,6 +681,8 @@ https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 #EXTINF:-1 tvg-id="womanhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/ePYXLBQ.png",Woman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="XingKongChina.cn" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/3jlwft1.png",Xing Kong
+http://luizkun.duckdns.org:63213/rtp/232.84.3.189:11056
 #EXTINF:-1 tvg-id="YTN.kr" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/SSQxzsd.png",YTN
 http://210.92.207.38:40001
 #EXTINF:-1 tvg-id="ZeeAction.in" group-title="🎬| Phim truyện" tvg-logo="https://i.postimg.cc/DwYR6WPZ/1280px-Zee-Action-2025-svg.png",Zee Action
