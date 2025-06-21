@@ -1059,9 +1059,8 @@ http://178.212.71.253:8000/play/95/index.m3u8
 http://vod.splay.uz/live_splay/original/DoktorHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zdorovoe-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/jedtE5l.png",ЗДОРОВОЕ ТВ
 http://178.217.72.66:8080/Zdorovoe_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="zagorodny" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/YGqO3Us.png",Загородный
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s31/04.m3u8
+#EXTINF:-1 tvg-id="zagorodny-int" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/n7zOS06.png",Загородный INT
+http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/RoYd5pz.png",Загородная жизнь
 http://185.57.68.33/40/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/NNmjD9Z.png",Звезда Плюс
